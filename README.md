@@ -21,6 +21,9 @@ It's the first prototype I made, and it works as expected. However, it's a 4-lay
 
 There is nothing wrong with the assembled version, though. It's a good choice if you don't want to solder that much and ideally have someone who wants a second set (on JLCPCB, you can get assembly for 2/5 PCBs).
 
+> **Warning**
+> OLED not tested yet.
+
 ## BOM
 
 ### EC Parts
