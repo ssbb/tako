@@ -24,6 +24,19 @@ There is nothing wrong with the assembled version, though. It's a good choice if
 > **Warning**
 > OLED not tested yet.
 
+## Features
+
+### Assembled version
+
+- Onboard USB-C with ESD protection
+- STM32F4x1 MCU
+- Actuation Point Changer
+- Wired only
+
+# Caveats
+
+- No tenting puck support since there is no space between housings for screw holes. But can be done on bottom plate with different plate design.
+
 ## BOM
 
 ### EC Parts
