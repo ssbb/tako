@@ -56,6 +56,8 @@ You can obtain all of this on [deskeys](https://deskeys.io/) or other stores (PR
 | M2x4 screw    | 32     |                  |
 | PJ-320A       | 2      | Audio jack       |
 | TRRS Cable    | 1      |                  |
+| 128x32 OLED   | 2      | Optional         |
+| OLED Sockets  | 2      | Optional         |
 
 > **Warning**
 > Top plate should be 1.2mm thick!
