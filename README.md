@@ -69,15 +69,15 @@ You can obtain all of this on [deskeys](https://deskeys.io/). Please read all th
 | PJ-320A        | 2      | Audio jack       |
 | TRRS Cable     | 1      |                  |
 
+> **Warning**
+> Top plate should be 1.2mm thick!
+
 #### Optional
 
 | Part         | Amount |
 | ------------ | ------ |
 | 128x32 OLED  | 2      |
 | OLED Sockets | 2      |
-
-> **Warning**
-> Top plate should be 1.2mm thick!
 
 ## Build guide
 
