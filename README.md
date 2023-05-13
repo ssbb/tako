@@ -53,7 +53,7 @@ There is nothing wrong with the assembled version, though. It's a good choice if
 You can obtain all of this on [deskeys](https://deskeys.io/). Please read all the notes and warnings below.
 
 > **Note**
-> If you going to use DES domes then it's recommended to get DES Volcano springs to avoid sping crunch.
+> If you going to use DES V3/Carrot domes then it's recommended to get DES Volcano springs to avoid sping crunch.
 
 ---
 
