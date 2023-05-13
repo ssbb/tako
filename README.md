@@ -33,7 +33,7 @@ There is nothing wrong with the assembled version, though. It's a good choice if
 - Onboard USB-C with ESD protection
 - STM32F4x1 MCU
 - Actuation Point Changer
-- Wired only
+- USART Full-duplex
 
 ## Caveats
 
