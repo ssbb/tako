@@ -106,6 +106,6 @@ At the moment, only QMK is supported. While ZMK in wired mode is possible, it ha
 
 Special thanks to [Cipulot](https://github.com/Cipulot/) for all the work on EC keyboards and assistance.
 
-- [jimmerricks (Swoop)](https://github.com/jimmerricks/swoop) for Swoop
+- [jimmerricks](https://github.com/jimmerricks/swoop) for Swoop
 - [duckyb](https://github.com/duckyb/urchin) for Urchin I was inspired by
 - Awesome [Pete Johanson](https://github.com/petejohanson) for assistance
