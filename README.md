@@ -33,7 +33,7 @@ There is nothing wrong with the assembled version, though. It's a good choice if
 - Actuation Point Changer
 - Wired only
 
-# Caveats
+## Caveats
 
 - No tenting puck support since there is no space between housings for screw holes. But can be done on bottom plate with different case design.
 
