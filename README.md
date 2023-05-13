@@ -57,7 +57,8 @@ You can obtain all of this on [deskeys](https://deskeys.io/) or other stores (PR
 | PJ-320A       | 2      | Audio jack       |
 | TRRS Cable    | 1      |                  |
 
-> **Warning** > **Top plate should be 1.2mm thick**
+> **Warning**
+> Top plate should be 1.2mm thick!
 
 ## Build guide
 
