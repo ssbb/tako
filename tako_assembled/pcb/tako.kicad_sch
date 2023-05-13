@@ -5,7 +5,7 @@
   (paper "A1")
 
   (title_block
-    (title "Thocktopus")
+    (title "tako")
     (date "2023-03-13")
     (rev "1.0")
     (company "ssbb")
@@ -5718,7 +5718,7 @@
     (pin "1" (uuid 98161d22-2353-4315-b097-c3b2bece1da8))
     (pin "2" (uuid 996a94a8-901f-4596-85ea-627038fbcd0c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C5") (unit 1)
         )
@@ -5743,7 +5743,7 @@
     )
     (pin "1" (uuid 992d1700-0d51-4ab7-b382-22ded6ac35c2))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#FLG01") (unit 1)
         )
@@ -5768,7 +5768,7 @@
     )
     (pin "1" (uuid cebba6f5-8672-417e-b947-b28fa9b07e01))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0113") (unit 1)
         )
@@ -5793,7 +5793,7 @@
     )
     (pin "1" (uuid 1f6437b9-79f3-43e3-abbb-7882044f8b1a))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR033") (unit 1)
         )
@@ -5818,7 +5818,7 @@
     )
     (pin "1" (uuid b3a41a69-4d4b-432a-a594-dcc933328100))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0145") (unit 1)
         )
@@ -5849,7 +5849,7 @@
     (pin "3" (uuid 9f2858dd-24ee-4811-8b3b-471d07e4c0db))
     (pin "4" (uuid a4a681b7-7763-4327-8501-ec73ff8a5499))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "D101") (unit 1)
         )
@@ -5879,7 +5879,7 @@
     (pin "2" (uuid f3445302-b4a6-41f1-a164-22743bca1cc3))
     (pin "3" (uuid 47d672d2-994d-4f9d-b711-29f927a11596))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "U102") (unit 1)
         )
@@ -5904,7 +5904,7 @@
     )
     (pin "1" (uuid 6fa96353-a5db-4fcd-a48f-f7d8ca129acc))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR048") (unit 1)
         )
@@ -5928,7 +5928,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H111") (unit 1)
         )
@@ -5955,12 +5955,12 @@
     (pin "2" (uuid 9e4f0710-bfe6-40cd-8f96-582977350ae4))
     (pin "3" (uuid 8cda4c79-199d-4974-b375-7f923f55cb8d))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW4") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW2") (unit 1)
         )
@@ -5984,7 +5984,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H114") (unit 1)
         )
@@ -6011,12 +6011,12 @@
     (pin "2" (uuid d7631892-2332-460d-88c0-6f5859fea440))
     (pin "3" (uuid 3a719160-ab66-4f24-917c-287589bc3962))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW2") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW6") (unit 1)
         )
@@ -6043,12 +6043,12 @@
     (pin "2" (uuid d166762e-69d9-4f06-b85f-53c9fdf8a9c5))
     (pin "3" (uuid dae335db-e2af-45e2-9190-94a8ec542d19))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW6") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW12") (unit 1)
         )
@@ -6073,7 +6073,7 @@
     )
     (pin "1" (uuid 86b9c250-9161-43f6-81ed-ce1d69491e44))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0110") (unit 1)
         )
@@ -6102,7 +6102,7 @@
     (pin "1" (uuid 9b356803-93fd-45c9-9c53-739dcbd08fbc))
     (pin "2" (uuid edf458e0-ee47-4200-803c-f5322e944dd4))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C11") (unit 1)
         )
@@ -6126,7 +6126,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H107") (unit 1)
         )
@@ -6151,7 +6151,7 @@
     )
     (pin "1" (uuid 9e6599c3-2829-4731-a459-6f4f02dcd768))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR08") (unit 1)
         )
@@ -6176,7 +6176,7 @@
     )
     (pin "1" (uuid d9328f1d-0c4b-4fd4-8348-b1b5c78115bf))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0104") (unit 1)
         )
@@ -6201,7 +6201,7 @@
     )
     (pin "1" (uuid 1a8c3bcd-098c-453b-bca9-b8102f59e9a7))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR030") (unit 1)
         )
@@ -6226,7 +6226,7 @@
     )
     (pin "1" (uuid 2c976021-4f7b-4420-a914-5288055fdf39))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0103") (unit 1)
         )
@@ -6255,7 +6255,7 @@
     (pin "1" (uuid cc995409-a73e-4e08-82d1-06c66368b920))
     (pin "2" (uuid 12de68f9-be29-4cdd-aa1e-8a7e3b06cfdf))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C108") (unit 1)
         )
@@ -6280,7 +6280,7 @@
     )
     (pin "1" (uuid 5b7b8c34-d1ae-40aa-b347-c77fa23d037d))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR06") (unit 1)
         )
@@ -6314,7 +6314,7 @@
     (pin "1" (uuid 5bfa5dc9-79c0-4957-a04b-1edcb7324471))
     (pin "2" (uuid b2aeaf85-537d-4b2c-86cf-fb66e1afd54f))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R7") (unit 1)
         )
@@ -6339,7 +6339,7 @@
     )
     (pin "1" (uuid cde484ce-47fb-4032-9bb9-8d18fa4b1c07))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR021") (unit 1)
         )
@@ -6364,7 +6364,7 @@
     )
     (pin "1" (uuid 1045d4ec-b3f2-4dc0-a587-80bc27d24075))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR02") (unit 1)
         )
@@ -6389,7 +6389,7 @@
     )
     (pin "1" (uuid 7845f605-d626-47c8-9a19-0c453448b087))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR05") (unit 1)
         )
@@ -6418,7 +6418,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H10") (unit 1)
         )
@@ -6443,7 +6443,7 @@
     )
     (pin "1" (uuid 52d9a3f1-78d2-4fc9-b339-705fbedea80a))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0135") (unit 1)
         )
@@ -6470,12 +6470,12 @@
     (pin "2" (uuid f314c2ce-cc4d-4473-9def-8165c87a6ebd))
     (pin "3" (uuid f5d7ca25-3380-4e81-a3c1-8260dc018ee0))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW7") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW3") (unit 1)
         )
@@ -6500,7 +6500,7 @@
     )
     (pin "1" (uuid 8e3f1287-c70f-44cb-87cb-57bfbdd5ab87))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0122") (unit 1)
         )
@@ -6527,12 +6527,12 @@
     (pin "2" (uuid a7b0696e-1f51-4f3d-9745-caa039f421fd))
     (pin "3" (uuid c1b9580b-9039-44d3-be29-1cc8aba8f0f0))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW1") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW1") (unit 1)
         )
@@ -6559,12 +6559,12 @@
     (pin "2" (uuid 6eb6450f-d93d-4ab1-accb-fb243e4610de))
     (pin "3" (uuid 43dc8961-d7ee-487b-a489-12d2b865e8ca))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW15") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW115") (unit 1)
         )
@@ -6593,7 +6593,7 @@
     (pin "1" (uuid 67663314-59e9-4f6f-9473-986e40237ef3))
     (pin "2" (uuid b1e2cbca-288c-4853-8941-5fab4c2bf366))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "JP101") (unit 1)
         )
@@ -6623,7 +6623,7 @@
           (reference "#PWR0120") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR04") (unit 1)
         )
@@ -6652,7 +6652,7 @@
     (pin "1" (uuid 3aac125d-8655-4c3f-913e-77653099f7cb))
     (pin "2" (uuid 73bfe904-f7d1-4233-aa5c-7be27ecb078c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C1") (unit 1)
         )
@@ -6677,7 +6677,7 @@
     )
     (pin "1" (uuid 343f09aa-fba0-4d35-9aee-c215690b11d1))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0133") (unit 1)
         )
@@ -6706,7 +6706,7 @@
     (pin "1" (uuid a064889b-f82b-4898-831d-34a18e0716b8))
     (pin "2" (uuid 77e95564-09f9-4887-9261-d5281eda21d0))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C9") (unit 1)
         )
@@ -6731,7 +6731,7 @@
     )
     (pin "1" (uuid 4bd984dd-433b-485c-8f9f-408c04e6b3d9))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0118") (unit 1)
         )
@@ -6760,7 +6760,7 @@
     (pin "1" (uuid 3d183db3-a814-4628-8b56-30bbacf4ddae))
     (pin "2" (uuid ff714efc-b33b-4c7b-af84-f946b8a8c29b))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C102") (unit 1)
         )
@@ -6785,7 +6785,7 @@
     )
     (pin "1" (uuid 30c3f186-a0df-4397-9583-89ce5ad4bdaf))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR023") (unit 1)
         )
@@ -6814,7 +6814,7 @@
     (pin "1" (uuid 6dd073d8-8d94-4e24-a490-6b2f05c4ba94))
     (pin "2" (uuid 9f7def02-5056-4e31-ac6e-166df9f349d5))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R16") (unit 1)
         )
@@ -6839,7 +6839,7 @@
     )
     (pin "1" (uuid a05a9c22-b214-46b7-b27a-9bb836ef9403))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0106") (unit 1)
         )
@@ -6868,7 +6868,7 @@
     (pin "1" (uuid 2bf5728a-79cc-4d6a-b6a6-261b0fb829eb))
     (pin "2" (uuid 520c7956-b261-4e4c-87fd-ff9a50e29eba))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R103") (unit 1)
         )
@@ -6893,7 +6893,7 @@
     )
     (pin "1" (uuid 55287e1f-f820-4ca7-9fdd-2ece8a5f2d07))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR028") (unit 1)
         )
@@ -6917,7 +6917,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H6") (unit 1)
         )
@@ -6944,12 +6944,12 @@
     (pin "2" (uuid 6ffb075f-e4b6-477b-9d43-4e1505416ddd))
     (pin "3" (uuid 3f5ab2ee-db62-4195-bf72-d41b74cfcf95))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW15") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW15") (unit 1)
         )
@@ -6974,7 +6974,7 @@
     )
     (pin "1" (uuid c4febf76-9d72-44d6-8581-e77de226964e))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#FLG0101") (unit 1)
         )
@@ -6999,7 +6999,7 @@
     )
     (pin "1" (uuid 68dd92c3-ff21-4640-8a46-f9cbbb1b5283))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0129") (unit 1)
         )
@@ -7026,12 +7026,12 @@
     (pin "2" (uuid 60b21d55-98af-453a-b9a8-a9850b8cd26d))
     (pin "3" (uuid 1294cef9-ea16-4ab3-8135-157693801981))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW4") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW102") (unit 1)
         )
@@ -7056,7 +7056,7 @@
     )
     (pin "1" (uuid ac86b788-7b61-4aab-842e-2507df57f420))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0109") (unit 1)
         )
@@ -7083,12 +7083,12 @@
     (pin "2" (uuid e7038180-d764-4cf1-af8f-93c4dcc2a5cb))
     (pin "3" (uuid 9aa16927-0ea6-460d-9102-20f6f6a7a2b9))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW7") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW103") (unit 1)
         )
@@ -7113,7 +7113,7 @@
     )
     (pin "1" (uuid 5e5f545f-9c05-4cb2-9099-b782c8bd0463))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0132") (unit 1)
         )
@@ -7138,7 +7138,7 @@
     )
     (pin "1" (uuid c28a6817-5e3f-4e80-8471-999cb4ed3082))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR020") (unit 1)
         )
@@ -7163,7 +7163,7 @@
     )
     (pin "1" (uuid 59d39886-a4c4-4802-ad8d-667865e2c9f0))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR035") (unit 1)
         )
@@ -7190,12 +7190,12 @@
     (pin "2" (uuid db43fee4-7caf-483e-9137-d1842160b333))
     (pin "3" (uuid dad6a4fc-424f-4152-ba5a-6c7f9facdf73))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW3") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW111") (unit 1)
         )
@@ -7224,7 +7224,7 @@
     (pin "1" (uuid 0da546bd-6477-4015-be07-c626bb55d4cb))
     (pin "2" (uuid 3c28d5d9-5a26-4c30-9b11-7d8debf7ff79))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C104") (unit 1)
         )
@@ -7249,7 +7249,7 @@
     )
     (pin "1" (uuid 454d0e95-2527-401b-b2ff-adcd6f4913cb))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR019") (unit 1)
         )
@@ -7278,7 +7278,7 @@
     (pin "1" (uuid 3ac81b45-57ea-4cc8-ade8-808976181309))
     (pin "2" (uuid eda4ce05-4dc8-437e-a746-244747276adb))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R110") (unit 1)
         )
@@ -7303,7 +7303,7 @@
     )
     (pin "1" (uuid 267834ae-8210-4633-b64c-ed6f17c92f67))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR042") (unit 1)
         )
@@ -7328,7 +7328,7 @@
     )
     (pin "1" (uuid a919cb09-47f2-4642-8895-2da7a381cef3))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR044") (unit 1)
         )
@@ -7353,7 +7353,7 @@
     )
     (pin "1" (uuid 73f9d6df-d8be-446d-b3b4-1abf9066055f))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0111") (unit 1)
         )
@@ -7380,12 +7380,12 @@
     (pin "2" (uuid d9e2128c-3799-4569-88b7-1309ae2a8b26))
     (pin "3" (uuid eab644ba-80d8-4c97-97cc-e921f9f8bb14))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW5") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW7") (unit 1)
         )
@@ -7414,7 +7414,7 @@
     (pin "1" (uuid 70bc841e-9440-4b75-b242-6089d91385c3))
     (pin "2" (uuid 261837d8-7fcf-4de9-a8cc-8dd05090f732))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R105") (unit 1)
         )
@@ -7441,12 +7441,12 @@
     (pin "2" (uuid 557756d2-31c6-43a9-8156-0b8d22f2ced2))
     (pin "3" (uuid f0876d3a-a9d9-498e-8870-1af00143044e))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW11") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW109") (unit 1)
         )
@@ -7471,7 +7471,7 @@
     )
     (pin "1" (uuid 6afdb2ae-38da-4e0a-bb2d-2692ecc5c6d2))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0120") (unit 1)
         )
@@ -7496,7 +7496,7 @@
     )
     (pin "1" (uuid 33bee83a-ccc7-45f8-9585-509ef3b239d2))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR010") (unit 1)
         )
@@ -7521,7 +7521,7 @@
     )
     (pin "1" (uuid dddf7f9e-1eab-40f0-96b3-5feea612ff32))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR038") (unit 1)
         )
@@ -7546,7 +7546,7 @@
     )
     (pin "1" (uuid 069f3a8f-34c2-4db3-878c-f90e3a426f39))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR012") (unit 1)
         )
@@ -7573,12 +7573,12 @@
     (pin "2" (uuid 906d920e-e639-4f53-9714-d0ef6b6d9adf))
     (pin "3" (uuid 36ddce81-8608-495d-a216-3745bd45a7e7))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW10") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW104") (unit 1)
         )
@@ -7605,12 +7605,12 @@
     (pin "2" (uuid f8d7d5c1-5f2e-4aa2-99bc-87c164bddfb1))
     (pin "3" (uuid c304dee0-dab8-47ea-82ba-a8cdcb08d344))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW8") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW8") (unit 1)
         )
@@ -7637,12 +7637,12 @@
     (pin "2" (uuid 2f4cae69-0685-4c6b-b743-4e990bc9b2b3))
     (pin "3" (uuid fa51e892-c115-4f89-ac88-ceb863883005))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW8") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW108") (unit 1)
         )
@@ -7667,7 +7667,7 @@
     )
     (pin "1" (uuid 787c796d-8ea2-4e8a-9e37-dd4f817c3052))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR039") (unit 1)
         )
@@ -7699,7 +7699,7 @@
     (pin "6" (uuid 75ef1d9d-7d27-4f80-9f26-45bb78d8312e))
     (pin "7" (uuid 9b1e6688-267b-4115-8565-8139d996ba00))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "U103") (unit 1)
         )
@@ -7723,7 +7723,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H14") (unit 1)
         )
@@ -7752,7 +7752,7 @@
     (pin "1" (uuid 307f5a2f-7dad-488c-ac19-00623c892d7d))
     (pin "2" (uuid 2053078f-7870-4fb7-8228-905e57b6c036))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C103") (unit 1)
         )
@@ -7781,7 +7781,7 @@
     (pin "1" (uuid e4c1aa38-217c-482d-b1c1-cfe81ff21e59))
     (pin "2" (uuid d76fe315-549d-46bb-9041-c1d1c1bff83f))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C3") (unit 1)
         )
@@ -7810,7 +7810,7 @@
     (pin "1" (uuid bbbd0df7-e0e7-4269-8104-658536017902))
     (pin "2" (uuid 214e7f4c-83d5-45b2-ad6e-234259e32200))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R6") (unit 1)
         )
@@ -7835,7 +7835,7 @@
     )
     (pin "1" (uuid 91e0b99c-70ce-49d0-9f4a-18fc5ed919b3))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR041") (unit 1)
         )
@@ -7866,7 +7866,7 @@
     (pin "3" (uuid dcde08cc-9426-42a5-8dab-9b26ed56316c))
     (pin "4" (uuid 472c6db7-c9f4-4371-9236-71f3ae903436))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "D1") (unit 1)
         )
@@ -7895,7 +7895,7 @@
     (pin "1" (uuid cd352963-bbca-43a4-bc29-e13d1d2759c7))
     (pin "2" (uuid d13eba25-cd0e-4f50-9560-2a1474e54773))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R17") (unit 1)
         )
@@ -7924,7 +7924,7 @@
     (pin "1" (uuid b9dc79eb-24cb-4c31-a63e-722ce7e5c1a8))
     (pin "2" (uuid 4df6176c-94c2-45ed-9a1e-26630804a4f9))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R108") (unit 1)
         )
@@ -7951,12 +7951,12 @@
     (pin "2" (uuid b2a3250e-b720-45ac-80e7-8438de263656))
     (pin "3" (uuid d0772490-0a92-4fa9-adc6-84303ef9fb42))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW3") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW116") (unit 1)
         )
@@ -7981,7 +7981,7 @@
     )
     (pin "1" (uuid 7a79a728-b067-4b70-95ea-d40fe7c6998e))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0147") (unit 1)
         )
@@ -8005,7 +8005,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H101") (unit 1)
         )
@@ -8034,7 +8034,7 @@
     (pin "1" (uuid 1fc13ed2-e87a-4120-bd36-b8b3cdbc14ca))
     (pin "2" (uuid 1cf19d43-85d9-455d-85ac-b3bf126edcb7))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C110") (unit 1)
         )
@@ -8061,12 +8061,12 @@
     (pin "2" (uuid 614eeb19-5c1f-4a60-b19b-ad3307bbd0a7))
     (pin "3" (uuid bcc54538-8187-4649-8515-0fcf5e541d3c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW13") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW105") (unit 1)
         )
@@ -8090,7 +8090,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H108") (unit 1)
         )
@@ -8117,12 +8117,12 @@
     (pin "2" (uuid 7798aa62-f15e-48b3-8c8a-47ec0df5afd5))
     (pin "3" (uuid ba94d3c9-4d68-4457-be17-b2270e373385))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW14") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW10") (unit 1)
         )
@@ -8147,7 +8147,7 @@
     )
     (pin "1" (uuid 3e7855cb-3abe-4eb0-9908-03fabc44fb0c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0127") (unit 1)
         )
@@ -8172,7 +8172,7 @@
     )
     (pin "1" (uuid 6f8b0d09-440b-42f7-9e14-dae2e20ad21d))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR015") (unit 1)
         )
@@ -8199,12 +8199,12 @@
     (pin "2" (uuid cd249fd0-a961-4ed2-aa2a-8c11cc916d48))
     (pin "3" (uuid ffbb151c-5430-444d-98ae-b102bde9447c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW9") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW13") (unit 1)
         )
@@ -8233,7 +8233,7 @@
     (pin "1" (uuid 0eca7828-0dfe-4890-bfc7-a2e04ea18452))
     (pin "2" (uuid 8a5d9fdd-4564-4821-8373-1eba8877ad41))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C8") (unit 1)
         )
@@ -8260,12 +8260,12 @@
     (pin "2" (uuid ad3b453e-8aed-45e6-ac6a-8e4394992049))
     (pin "3" (uuid f69ade4b-d07d-4742-9183-2ee596f4d4c9))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW6") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW112") (unit 1)
         )
@@ -8290,7 +8290,7 @@
     )
     (pin "1" (uuid 42e36b52-9071-4065-8db6-1bcc52db4aea))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR045") (unit 1)
         )
@@ -8315,7 +8315,7 @@
     )
     (pin "1" (uuid b6cf03ef-b4be-4ca4-a121-7caf4b22539c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0143") (unit 1)
         )
@@ -8340,7 +8340,7 @@
     )
     (pin "1" (uuid 430662c5-d3b4-46eb-9e05-6cb2eedaf50e))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0114") (unit 1)
         )
@@ -8383,7 +8383,7 @@
     (pin "8" (uuid a37a8ec1-8cea-4d84-b365-74ea92b4f0b2))
     (pin "9" (uuid bf00ea5d-192d-4055-870b-f7d4812610fd))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "U104") (unit 1)
         )
@@ -8408,7 +8408,7 @@
     )
     (pin "1" (uuid c5963ee3-73da-4828-97da-08d96304951a))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR011") (unit 1)
         )
@@ -8442,7 +8442,7 @@
     (pin "1" (uuid db5d671b-ec18-4ddf-9da5-7e8d49e63f15))
     (pin "2" (uuid 197ea2fc-0968-4e2b-a244-a195e64f2147))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R5") (unit 1)
         )
@@ -8467,7 +8467,7 @@
     )
     (pin "1" (uuid 47ae1be8-1e96-42d1-8b28-a2be96c4d79e))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0139") (unit 1)
         )
@@ -8491,7 +8491,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H103") (unit 1)
         )
@@ -8515,7 +8515,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H3") (unit 1)
         )
@@ -8540,7 +8540,7 @@
     )
     (pin "1" (uuid a587e767-cfe8-45d4-a4b4-117d9634f040))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR037") (unit 1)
         )
@@ -8569,7 +8569,7 @@
     (pin "1" (uuid 7bc6aa9d-4b1c-4d05-8f22-04cf6a17148a))
     (pin "2" (uuid 726c5878-f6c4-4b2b-9542-2ba7f7a698ad))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R12") (unit 1)
         )
@@ -8598,7 +8598,7 @@
     (pin "1" (uuid 4b3d3b01-efa0-4dbc-95a9-850a8d20739c))
     (pin "2" (uuid 1fe7bcf8-9a85-4bfc-b7f3-d90027291cb1))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C10") (unit 1)
         )
@@ -8623,7 +8623,7 @@
     )
     (pin "1" (uuid 304389ca-5e25-4115-b2b8-5a77f0c5f77a))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR051") (unit 1)
         )
@@ -8653,7 +8653,7 @@
     )
     (pin "1" (uuid ac829944-b0b7-4127-be94-213912d4dc06))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0126") (unit 1)
         )
@@ -8678,7 +8678,7 @@
     )
     (pin "1" (uuid 0bb3f06d-8487-485d-ab7f-0962af35f09e))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR022") (unit 1)
         )
@@ -8707,7 +8707,7 @@
     (pin "1" (uuid 67bc1820-62e9-418e-915d-3b8488c5ad9f))
     (pin "2" (uuid 0a8a9f3b-8632-4f0e-963e-9567fd7ffd28))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C2") (unit 1)
         )
@@ -8736,7 +8736,7 @@
     (pin "1" (uuid 59346773-304c-4794-912f-3e42ab802945))
     (pin "2" (uuid 63ed135d-0be7-4e87-b6b0-058b25136c33))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C111") (unit 1)
         )
@@ -8761,7 +8761,7 @@
     )
     (pin "1" (uuid 3a412b7d-4ec0-4abb-bab8-938fc3c3f673))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0137") (unit 1)
         )
@@ -8790,7 +8790,7 @@
     (pin "1" (uuid 262d9e55-2fcf-434b-8e4d-ff3458d252aa))
     (pin "2" (uuid 18832280-521d-4228-9ee9-8ecd1541bb9d))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R8") (unit 1)
         )
@@ -8819,7 +8819,7 @@
     (pin "1" (uuid 4a392a76-2660-480b-b144-92c6864faf29))
     (pin "2" (uuid 0227c831-e6e1-465f-ae01-f121644a1514))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C4") (unit 1)
         )
@@ -8844,7 +8844,7 @@
     )
     (pin "1" (uuid 09e7a637-6455-4f51-872e-138dbe045063))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0125") (unit 1)
         )
@@ -8873,7 +8873,7 @@
     (pin "1" (uuid 1f46dd74-c0e3-4d97-827b-15d2f5cbb4ce))
     (pin "2" (uuid 8afbdb74-2335-4847-8212-3317e0da8705))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R112") (unit 1)
         )
@@ -8898,7 +8898,7 @@
     )
     (pin "1" (uuid 7d712faa-8123-4a0b-8b70-c353156732c7))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR07") (unit 1)
         )
@@ -8925,12 +8925,12 @@
     (pin "2" (uuid a09cf923-8f5a-4130-a6cc-2f59ee3b7384))
     (pin "3" (uuid d0c9d48f-63b5-480f-aefd-56db6aee0efc))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW9") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW113") (unit 1)
         )
@@ -8959,7 +8959,7 @@
     (pin "1" (uuid e36a5a59-7857-4136-b920-114bddf555f8))
     (pin "2" (uuid 5bf645b8-362d-4a69-becf-e057022369e6))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R3") (unit 1)
         )
@@ -9035,7 +9035,7 @@
     (pin "8" (uuid 62e9e7c1-4423-4f9f-8cde-bbc82b1afb42))
     (pin "9" (uuid 83fc794e-f2ec-4379-8362-57256ea53861))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "U101") (unit 1)
         )
@@ -9062,12 +9062,12 @@
     (pin "2" (uuid efc2a813-d9f9-46a5-a8f2-7aaae64a463c))
     (pin "3" (uuid f2c92926-24c3-4a7a-b575-082f0b1ab771))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW3") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW17") (unit 1)
         )
@@ -9092,7 +9092,7 @@
     )
     (pin "1" (uuid 1f2bd735-5b6b-4da0-832d-88f4ec86952c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0136") (unit 1)
         )
@@ -9116,7 +9116,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H4") (unit 1)
         )
@@ -9141,7 +9141,7 @@
     )
     (pin "1" (uuid 46272a88-0d1d-4d55-894e-737688d026d4))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR040") (unit 1)
         )
@@ -9170,7 +9170,7 @@
     (pin "1" (uuid c114497d-ea23-4070-83a4-65a6f386c3e5))
     (pin "2" (uuid 1010aab4-7ac3-4973-87dd-bf63e8585907))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R111") (unit 1)
         )
@@ -9199,7 +9199,7 @@
     (pin "1" (uuid f12a4cb3-174d-4d03-aff9-d848a2ea5c45))
     (pin "2" (uuid f0afe0d2-3ff8-497e-866d-3ae82ea4f4e8))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R15") (unit 1)
         )
@@ -9224,7 +9224,7 @@
     )
     (pin "1" (uuid cb2e4231-9768-447e-b99f-3a0409279385))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR043") (unit 1)
         )
@@ -9249,7 +9249,7 @@
     )
     (pin "1" (uuid 365da219-eeec-4a6d-ac24-40aa7f4d3e3b))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0142") (unit 1)
         )
@@ -9278,7 +9278,7 @@
     (pin "1" (uuid ba30e4f1-e618-4df0-8351-ae946b7cf229))
     (pin "2" (uuid f9521d89-cf02-4ca8-84a9-66ce336d1bbe))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "F101") (unit 1)
         )
@@ -9309,7 +9309,7 @@
           (reference "JP1") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "JP2") (unit 1)
         )
@@ -9337,7 +9337,7 @@
     (pin "C" (uuid a1d38185-fb39-4670-855b-0fa5b8abe6f1))
     (pin "D" (uuid 6daba762-9789-4ba1-a2a3-f081a8d450da))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "J101") (unit 1)
         )
@@ -9366,7 +9366,7 @@
     (pin "1" (uuid 083cba8c-5476-40a2-a3b4-34a81f9f5288))
     (pin "2" (uuid 1dde186a-05ca-42f2-b0be-3f7bb6b51c91))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R9") (unit 1)
         )
@@ -9390,7 +9390,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H102") (unit 1)
         )
@@ -9414,7 +9414,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H104") (unit 1)
         )
@@ -9439,7 +9439,7 @@
     )
     (pin "1" (uuid bb1dffc8-3d2b-4dd7-a08c-61ffd1c3cbbb))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR013") (unit 1)
         )
@@ -9466,12 +9466,12 @@
     (pin "2" (uuid acf31eef-30d5-4d15-b7f6-6d41d3f1af25))
     (pin "3" (uuid 73d6696e-9726-45e6-9210-2082a104ba81))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW3") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW11") (unit 1)
         )
@@ -9496,7 +9496,7 @@
     )
     (pin "1" (uuid a5414876-89cd-4e92-a1be-7fb19e6f5715))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR034") (unit 1)
         )
@@ -9521,7 +9521,7 @@
     )
     (pin "1" (uuid 632cd2d7-fc15-4737-b60a-a07578cfb4a8))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR01") (unit 1)
         )
@@ -9551,7 +9551,7 @@
     )
     (pin "1" (uuid f8e467e4-d0c2-47de-803b-66a0bce215b7))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0115") (unit 1)
         )
@@ -9576,7 +9576,7 @@
     )
     (pin "1" (uuid d7b8f3f1-24e4-461a-9902-d05347899c1b))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR027") (unit 1)
         )
@@ -9601,7 +9601,7 @@
     )
     (pin "1" (uuid 5644051f-988a-4b05-bf10-f8d2b3de24d9))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR024") (unit 1)
         )
@@ -9625,7 +9625,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H11") (unit 1)
         )
@@ -9650,7 +9650,7 @@
     )
     (pin "1" (uuid 6b24b067-6c96-4400-a48f-765069d24346))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR052") (unit 1)
         )
@@ -9679,7 +9679,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H5") (unit 1)
         )
@@ -9703,7 +9703,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H12") (unit 1)
         )
@@ -9728,7 +9728,7 @@
     )
     (pin "1" (uuid 5595ee99-a9c2-4940-b63b-acfd7774ad3c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0112") (unit 1)
         )
@@ -9757,7 +9757,7 @@
     (pin "1" (uuid 1087f1ae-c7c7-4775-86ce-d9acb9f16e73))
     (pin "2" (uuid 10320f12-259e-4533-87ce-d9d970d6e4e8))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R116") (unit 1)
         )
@@ -9786,7 +9786,7 @@
     (pin "1" (uuid 3613d7ae-c5e9-46c1-b2bf-8a85cfe85ff2))
     (pin "2" (uuid f7ac1eb9-ab82-4b8a-8ecc-376b6b0326ea))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R115") (unit 1)
         )
@@ -9811,7 +9811,7 @@
     )
     (pin "1" (uuid b61ee28b-879e-4a18-b272-7035348d5d73))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR016") (unit 1)
         )
@@ -9840,7 +9840,7 @@
     (pin "1" (uuid 536f0ddf-0167-4b7e-84cf-28e32c446755))
     (pin "2" (uuid 1c0ad927-9834-4b9f-94a9-63775fadb498))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C109") (unit 1)
         )
@@ -9869,7 +9869,7 @@
     (pin "1" (uuid 946d7522-1167-438f-a78f-08e10c0a3101))
     (pin "2" (uuid 78b0bef8-f64a-4f5b-bea3-5ecdcfa8247b))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C101") (unit 1)
         )
@@ -9898,7 +9898,7 @@
     (pin "1" (uuid c0949baf-0c36-4a2a-8cc9-e319425d44e9))
     (pin "2" (uuid 62f9539c-446a-47b8-8348-f08533838623))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C107") (unit 1)
         )
@@ -9927,7 +9927,7 @@
     (pin "1" (uuid 466ad512-f5ec-4293-9eb0-13c5c7268dce))
     (pin "2" (uuid 4238b491-ae62-47c4-9009-d4dd8b6b3446))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R117") (unit 1)
         )
@@ -9952,7 +9952,7 @@
     )
     (pin "1" (uuid 5460c673-0709-4e2c-91f5-38cd709397ea))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0140") (unit 1)
         )
@@ -9977,7 +9977,7 @@
     )
     (pin "1" (uuid 6ed234f4-6440-4520-9de8-6c300b4aafc3))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0119") (unit 1)
         )
@@ -10004,12 +10004,12 @@
     (pin "2" (uuid 6f014ce0-2633-40a7-b8ef-136dca073f0c))
     (pin "3" (uuid 0f5170a2-c0fc-4783-9a94-9387b4ea40b3))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW12") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW114") (unit 1)
         )
@@ -10033,7 +10033,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H9") (unit 1)
         )
@@ -10058,7 +10058,7 @@
     )
     (pin "1" (uuid 931d2b4b-d824-43e6-a5d1-c60dea0e6270))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0116") (unit 1)
         )
@@ -10083,7 +10083,7 @@
     )
     (pin "1" (uuid ec163dee-1f29-4dae-88fe-0f8d6e8cab34))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR09") (unit 1)
         )
@@ -10108,7 +10108,7 @@
     )
     (pin "1" (uuid 600b5575-fdec-4feb-bcb0-32534024d35b))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR047") (unit 1)
         )
@@ -10133,7 +10133,7 @@
     )
     (pin "1" (uuid a69b7488-fac3-4aef-ba1e-e1c79da948fd))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR018") (unit 1)
         )
@@ -10158,7 +10158,7 @@
     )
     (pin "1" (uuid 268c869b-5eda-4e4e-bf34-65e57abebacf))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0128") (unit 1)
         )
@@ -10182,7 +10182,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H7") (unit 1)
         )
@@ -10211,7 +10211,7 @@
     (pin "1" (uuid 44948553-ffe3-4ff1-9114-351810a6f0f3))
     (pin "2" (uuid 6c964317-78d2-421c-a668-4272a32a6c81))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R1") (unit 1)
         )
@@ -10240,7 +10240,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H113") (unit 1)
         )
@@ -10267,12 +10267,12 @@
     (pin "2" (uuid 79f4e212-217c-4b35-9cc7-c9221f32c630))
     (pin "3" (uuid 7a3e72d2-0bbe-46ec-a500-0b67d5ea8f71))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW1") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW101") (unit 1)
         )
@@ -10301,7 +10301,7 @@
     (pin "1" (uuid 8600ecac-a079-47c9-885c-5bf05f297e93))
     (pin "2" (uuid 110c7142-7942-4eb0-9e7f-fa48c77573ae))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R101") (unit 1)
         )
@@ -10338,7 +10338,7 @@
     (pin "6" (uuid adf5faa3-fcd7-4d84-b0b8-c09aa2b227e9))
     (pin "7" (uuid 7f8d5777-8021-4fe0-a565-ef8c4b39bd4b))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "U3") (unit 1)
         )
@@ -10363,7 +10363,7 @@
     )
     (pin "1" (uuid f4dd55ad-cce7-4a6c-9e19-f6c3cea79cc1))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0123") (unit 1)
         )
@@ -10388,7 +10388,7 @@
     )
     (pin "1" (uuid 576842c2-c581-41f6-a2b7-e01a430d2579))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0148") (unit 1)
         )
@@ -10417,7 +10417,7 @@
     (pin "1" (uuid 4c32513c-ca8c-4ebf-9eb3-48855c7d4c0a))
     (pin "2" (uuid 8305c730-4e1c-4974-ada1-7d4ccca88b8c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R14") (unit 1)
         )
@@ -10442,7 +10442,7 @@
     )
     (pin "1" (uuid 19ec195c-6258-462d-9e00-bd3c4d3664fd))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0105") (unit 1)
         )
@@ -10467,7 +10467,7 @@
     )
     (pin "1" (uuid 21a9df51-f8d6-4310-a469-504041f67032))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR017") (unit 1)
         )
@@ -10494,12 +10494,12 @@
     (pin "2" (uuid 2406ff96-9d70-4c8f-8566-baf0346793c5))
     (pin "3" (uuid 1df424c8-65f3-4c66-a8c3-7c337bda85e2))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW13") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW5") (unit 1)
         )
@@ -10526,12 +10526,12 @@
     (pin "2" (uuid eca07b2a-5e0b-480c-a537-4baca4ad8aaa))
     (pin "3" (uuid 803dcd99-48fa-42ce-9816-ac376502f074))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW14") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW110") (unit 1)
         )
@@ -10556,7 +10556,7 @@
     )
     (pin "1" (uuid bb8a3889-a5d9-4f4f-b4d4-24d780a37905))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0101") (unit 1)
         )
@@ -10599,7 +10599,7 @@
     (pin "8" (uuid 26013051-55a4-448e-b73c-c1e35e57ae8c))
     (pin "9" (uuid 8dc7cbe7-b9ef-4aca-b88d-1d7f74f7ebc9))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "U4") (unit 1)
         )
@@ -10626,12 +10626,12 @@
     (pin "2" (uuid 2b1b3fb9-e2b6-4596-8753-8e79a764b539))
     (pin "3" (uuid 091675d7-d495-4554-aa93-d3adaf3f5e80))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW3") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW16") (unit 1)
         )
@@ -10656,7 +10656,7 @@
     )
     (pin "1" (uuid d254d428-e9ef-4d0b-ae16-618578f9e445))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR014") (unit 1)
         )
@@ -10685,7 +10685,7 @@
     (pin "1" (uuid b99e51de-a7b2-4561-b9a9-6e3681548fc3))
     (pin "2" (uuid ada9b15b-4c62-4699-a39c-fd9cb5c2c08c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R102") (unit 1)
         )
@@ -10715,7 +10715,7 @@
     )
     (pin "1" (uuid 391e7d16-0256-4516-bd05-3a06426a86d8))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0130") (unit 1)
         )
@@ -10740,7 +10740,7 @@
     )
     (pin "1" (uuid 86af08bc-f38b-418f-91a5-3abcc9927954))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0149") (unit 1)
         )
@@ -10765,7 +10765,7 @@
     )
     (pin "1" (uuid d3758d6d-9a33-4ba6-80af-de53d032db4f))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR032") (unit 1)
         )
@@ -10798,7 +10798,7 @@
           (reference "O101") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "J102") (unit 1)
         )
@@ -10827,7 +10827,7 @@
     (pin "1" (uuid 59007656-eedd-4d99-bc25-625ddec760c5))
     (pin "2" (uuid f755d081-00be-40e1-ac10-84bc621de315))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R107") (unit 1)
         )
@@ -10867,7 +10867,7 @@
     (pin "8" (uuid 851ec1cd-0fdf-47a3-bdca-22953146df64))
     (pin "9" (uuid 8b332943-baaa-4bf5-b797-018b2642de9d))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "USB101") (unit 1)
         )
@@ -10897,7 +10897,7 @@
     )
     (pin "1" (uuid be4fafeb-3d73-48ef-9c53-8d94e1cd9157))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR036") (unit 1)
         )
@@ -10924,12 +10924,12 @@
     (pin "2" (uuid 5bffe99d-349c-4e9e-b6f4-1f58f5b41f08))
     (pin "3" (uuid 408ee79f-858c-44b3-8a57-c7f866999f0a))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW11") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW9") (unit 1)
         )
@@ -10959,7 +10959,7 @@
     (pin "2" (uuid 42533e54-3ddc-4d76-8982-3d03361a0741))
     (pin "3" (uuid 795718c6-10ea-4ee0-877f-d21ee9956980))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "Y1") (unit 1)
         )
@@ -10984,7 +10984,7 @@
     )
     (pin "1" (uuid 06ad87a1-46a2-4bf1-997a-26e519776ba9))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#FLG0102") (unit 1)
         )
@@ -11014,7 +11014,7 @@
           (reference "#PWR0131") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR03") (unit 1)
         )
@@ -11043,7 +11043,7 @@
     (pin "1" (uuid b8f199b6-a468-4797-adc6-21eff0e7869d))
     (pin "2" (uuid c7be88d3-ca40-4afa-9fe0-6cb46406f0d4))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C12") (unit 1)
         )
@@ -11067,7 +11067,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H2") (unit 1)
         )
@@ -11092,7 +11092,7 @@
     )
     (pin "1" (uuid 168acfdf-de1d-4e8e-8458-53b38f8ef8ec))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR025") (unit 1)
         )
@@ -11117,7 +11117,7 @@
     )
     (pin "1" (uuid 4eaa0981-d574-4563-9b5b-25cad5e08ecf))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#FLG0103") (unit 1)
         )
@@ -11146,7 +11146,7 @@
     (pin "1" (uuid ec4c93c4-363c-4be7-8304-17e8b7202329))
     (pin "2" (uuid df671db0-6514-4b2d-8f0f-0506a5e10b1b))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R104") (unit 1)
         )
@@ -11170,7 +11170,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H8") (unit 1)
         )
@@ -11195,7 +11195,7 @@
     )
     (pin "1" (uuid fcc47ce1-6f4d-4520-8f0e-6e35d06d0172))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#FLG03") (unit 1)
         )
@@ -11220,7 +11220,7 @@
     )
     (pin "1" (uuid 3e2dc3c2-f548-4979-ac59-67c8e5f8e24b))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR026") (unit 1)
         )
@@ -11249,7 +11249,7 @@
     (pin "1" (uuid 567cb03c-e77c-4c7a-8d41-1ec45b95d8ad))
     (pin "2" (uuid 5a5b2a0a-296e-4a22-b3cf-3df1e8d24339))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R114") (unit 1)
         )
@@ -11276,12 +11276,12 @@
     (pin "2" (uuid 5686987e-f3d5-447e-bab5-a5b248969fe3))
     (pin "3" (uuid aa10d43a-efc8-486b-8b9d-041485a8b2c4))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW3") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW117") (unit 1)
         )
@@ -11306,7 +11306,7 @@
     )
     (pin "1" (uuid 7353298b-e41f-445c-93e9-86a78728d8f2))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0121") (unit 1)
         )
@@ -11331,7 +11331,7 @@
     )
     (pin "1" (uuid f19b2731-1d86-4a97-b5cb-7ac4213374db))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0134") (unit 1)
         )
@@ -11360,7 +11360,7 @@
     (pin "1" (uuid b4fd30c8-5d77-4754-9d08-6645b2eeeaad))
     (pin "2" (uuid 4e209646-d97c-4fb4-970a-826270d9c27d))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C105") (unit 1)
         )
@@ -11384,7 +11384,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H110") (unit 1)
         )
@@ -11409,7 +11409,7 @@
     )
     (pin "1" (uuid 5a77d36c-8ed3-46ec-879d-5a3887ac12e3))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR046") (unit 1)
         )
@@ -11436,12 +11436,12 @@
     (pin "2" (uuid 89f9cc40-b174-4fde-a6d2-639de19ee050))
     (pin "3" (uuid b6d2bb61-bd91-433a-9cfc-d820e5521f21))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW2") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW106") (unit 1)
         )
@@ -11466,7 +11466,7 @@
     )
     (pin "1" (uuid 4a820842-acb4-4819-9e18-e420b05a5df5))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0131") (unit 1)
         )
@@ -11542,7 +11542,7 @@
     (pin "8" (uuid f3bcd909-0b89-40f9-8009-c08318bbb567))
     (pin "9" (uuid f15cbbaa-ac6d-4f81-b1bf-bc6ad1a324b7))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "U1") (unit 1)
         )
@@ -11570,7 +11570,7 @@
     (pin "C" (uuid 9d3eb678-4a2d-4f5a-bad2-6d59f747d4af))
     (pin "D" (uuid bfbb370a-159d-476e-a2b8-9559287287de))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "J1") (unit 1)
         )
@@ -11599,7 +11599,7 @@
     (pin "1" (uuid 47f4ab37-5563-487b-ac13-d0bb867ffdee))
     (pin "2" (uuid d7f29229-d473-435e-bb8d-d33fe5c05c25))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R10") (unit 1)
         )
@@ -11624,7 +11624,7 @@
     )
     (pin "1" (uuid efe4dcfe-7e0f-4687-a813-2a936b957013))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0146") (unit 1)
         )
@@ -11649,7 +11649,7 @@
     )
     (pin "1" (uuid 81bc3b92-586b-4aaa-8fa2-01d5dd425cfc))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#FLG02") (unit 1)
         )
@@ -11676,12 +11676,12 @@
     (pin "2" (uuid d8e58d79-8c14-4f9f-a0d3-d2a3fff86257))
     (pin "3" (uuid 0da4ad1f-3e16-443a-9283-461ba5703ef8))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW12") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW14") (unit 1)
         )
@@ -11711,7 +11711,7 @@
     (pin "2" (uuid 68d8b7f3-0488-4000-a61d-13eadab51517))
     (pin "3" (uuid e14bccbf-6efb-4cee-b0e2-5c72734b25eb))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "Y101") (unit 1)
         )
@@ -11736,7 +11736,7 @@
     )
     (pin "1" (uuid 48e7df1a-28c2-47ba-b442-80c66e359d5d))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0141") (unit 1)
         )
@@ -11761,7 +11761,7 @@
     )
     (pin "1" (uuid 88637852-d3cc-4254-9985-12e342e11aea))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0117") (unit 1)
         )
@@ -11786,7 +11786,7 @@
     )
     (pin "1" (uuid cd21a006-c1eb-4b76-8e95-77980e543761))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR029") (unit 1)
         )
@@ -11815,7 +11815,7 @@
     (pin "1" (uuid c2bffecf-f970-48af-ae38-32cfd1b195b4))
     (pin "2" (uuid 1f9041b9-fb3e-4f21-9ea3-54b2ee89c6b4))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R113") (unit 1)
         )
@@ -11840,7 +11840,7 @@
     )
     (pin "1" (uuid ee2b7e5b-249e-4828-bdaf-b64d59ee99b6))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0107") (unit 1)
         )
@@ -11864,7 +11864,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H105") (unit 1)
         )
@@ -11893,7 +11893,7 @@
     (pin "1" (uuid b4a759b9-570f-429e-9616-31be7fc8bc53))
     (pin "2" (uuid c83f89b6-fecd-4406-9217-113109a0bfa7))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R4") (unit 1)
         )
@@ -11920,12 +11920,12 @@
     (pin "2" (uuid 949efd09-05de-488f-bf81-9be0d7945849))
     (pin "3" (uuid f336c2ab-ed51-4e30-b3a9-14fd20c99f14))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW10") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW4") (unit 1)
         )
@@ -11954,7 +11954,7 @@
     (pin "1" (uuid 455349ba-592c-48c6-94fe-5551e7d1acff))
     (pin "2" (uuid 59c8de65-331c-41bd-8b8f-757c0c881bc8))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R11") (unit 1)
         )
@@ -11983,7 +11983,7 @@
     (pin "1" (uuid 0ed6ce23-1733-45b3-b354-30e16ca37759))
     (pin "2" (uuid 60bc1a36-4c71-42fc-8329-07664f898d3e))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C7") (unit 1)
         )
@@ -12008,7 +12008,7 @@
     )
     (pin "1" (uuid 7cf0549c-022c-416f-9920-b78cfa310e73))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0124") (unit 1)
         )
@@ -12033,7 +12033,7 @@
     )
     (pin "1" (uuid 4b541faa-1f8b-4c11-b154-9b8579ece0bc))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0144") (unit 1)
         )
@@ -12057,7 +12057,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H106") (unit 1)
         )
@@ -12088,7 +12088,7 @@
           (reference "JP1") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "JP102") (unit 1)
         )
@@ -12117,7 +12117,7 @@
     (pin "1" (uuid 90161b9d-cad1-4f5a-874d-47c759eaeb41))
     (pin "2" (uuid 080d3f4d-b743-44b3-8e34-a17c0741633f))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R106") (unit 1)
         )
@@ -12146,7 +12146,7 @@
     (pin "1" (uuid 2f6a0065-3db1-441f-bd0c-92d86a6b35b1))
     (pin "2" (uuid 04b39fab-38bc-41e0-8071-9d74b70d4eb4))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R109") (unit 1)
         )
@@ -12171,7 +12171,7 @@
     )
     (pin "1" (uuid b9161f27-ceb9-4927-ac27-edd59ff3a970))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0150") (unit 1)
         )
@@ -12200,7 +12200,7 @@
     (pin "1" (uuid f90f778d-3be3-432b-8edb-e223e5b7389c))
     (pin "2" (uuid eafe5d0b-bc93-4013-a4b4-1e2948cb1a8a))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "JP1") (unit 1)
         )
@@ -12229,7 +12229,7 @@
     (pin "1" (uuid 32744432-5436-4f2a-9f11-13507721045e))
     (pin "2" (uuid 37b6b0a3-bb0b-4f99-bd05-64429b289262))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C106") (unit 1)
         )
@@ -12254,7 +12254,7 @@
     )
     (pin "1" (uuid 23abcb75-f33a-470a-ac1c-f0d010071312))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0138") (unit 1)
         )
@@ -12278,7 +12278,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H112") (unit 1)
         )
@@ -12318,7 +12318,7 @@
     (pin "8" (uuid da16bfc7-4b58-4464-87ab-48bbce8a6267))
     (pin "9" (uuid 7153aacc-9614-485d-873a-54de657a18e7))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "USB1") (unit 1)
         )
@@ -12347,7 +12347,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H13") (unit 1)
         )
@@ -12371,7 +12371,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H1") (unit 1)
         )
@@ -12401,7 +12401,7 @@
     (pin "2" (uuid 11d35f7d-93eb-4f1f-b57b-06a9a80fa675))
     (pin "3" (uuid 96523aa2-c202-4e7d-93dd-2618eb27169e))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "U2") (unit 1)
         )
@@ -12434,7 +12434,7 @@
           (reference "O101") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "J2") (unit 1)
         )
@@ -12463,7 +12463,7 @@
     (pin "1" (uuid aee6b5aa-aba3-4ddd-b85a-81596da238a3))
     (pin "2" (uuid 47da72a0-6a36-4689-be9d-a3fc0050c48c))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C112") (unit 1)
         )
@@ -12492,7 +12492,7 @@
     (pin "1" (uuid d423b894-4894-49db-9429-35042093aea0))
     (pin "2" (uuid 3f044c20-78f3-426c-b220-7fe3d15561cd))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R13") (unit 1)
         )
@@ -12516,7 +12516,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "H109") (unit 1)
         )
@@ -12545,7 +12545,7 @@
     (pin "1" (uuid 8fcdabf5-1a80-415e-bbf5-0130debd2fa1))
     (pin "2" (uuid 55f2e24a-a851-45af-a348-89650b187d06))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "F1") (unit 1)
         )
@@ -12570,7 +12570,7 @@
     )
     (pin "1" (uuid 28cc58d4-18de-4c78-84e2-bcca55ac696f))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR031") (unit 1)
         )
@@ -12595,7 +12595,7 @@
     )
     (pin "1" (uuid b646d2d4-b7da-4d8e-a766-eee7e4cb8637))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0102") (unit 1)
         )
@@ -12624,7 +12624,7 @@
     (pin "1" (uuid f2681c1b-8ce6-4cda-bcdb-c32d3ebea3de))
     (pin "2" (uuid f899ba46-5a66-4e43-ad55-f56b4bb64b27))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "R2") (unit 1)
         )
@@ -12658,7 +12658,7 @@
     (pin "1" (uuid a6d6f899-99bd-4b2f-bc10-807da32eeebd))
     (pin "2" (uuid c1437441-7da9-4744-9754-5370a73b67b1))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "C6") (unit 1)
         )
@@ -12683,7 +12683,7 @@
     )
     (pin "1" (uuid d62d1999-d217-40b3-8db1-0990306520d8))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "#PWR0108") (unit 1)
         )
@@ -12710,12 +12710,12 @@
     (pin "2" (uuid d1ead930-904d-4427-b352-32a5ea3e29a5))
     (pin "3" (uuid 993a257f-b0bd-4ff7-b08b-3bf02061e464))
     (instances
-      (project "thocktopus"
+      (project "tako"
         (path "/7b28ce14-5c63-4c9f-9bca-abf529f54075"
           (reference "SW5") (unit 1)
         )
       )
-      (project "thocktopus"
+      (project "tako"
         (path "/9d8265e2-df3b-4900-a886-1f487fd3d916"
           (reference "SW107") (unit 1)
         )
