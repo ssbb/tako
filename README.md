@@ -59,17 +59,22 @@ You can obtain all of this on [deskeys](https://deskeys.io/). Please read all th
 
 ### Assembled version
 
-| Part          | Amount | Details          |
-| ------------- | ------ | ---------------- |
-| Assembled PCB | 1      | 1.6mm            |
-| Top plate     | 2      | 1.2mm thickness! |
-| Bottom plate  | 2      | 1.6mm            |
-| M2x6 standoff | 16     |                  |
-| M2x4 screw    | 32     |                  |
-| PJ-320A       | 2      | Audio jack       |
-| TRRS Cable    | 1      |                  |
-| 128x32 OLED   | 2      | Optional         |
-| OLED Sockets  | 2      | Optional         |
+| Part           | Amount | Details          |
+| -------------- | ------ | ---------------- |
+| Assembled PCB  | 1      | 1.6mm            |
+| Top plate      | 2      | 1.2mm thickness! |
+| Bottom plate   | 2      | 1.6mm            |
+| M2x6 standoffs | 16     |                  |
+| M2x4 screws    | 32     |                  |
+| PJ-320A        | 2      | Audio jack       |
+| TRRS Cable     | 1      |                  |
+
+#### Optional
+
+| Part         | Amount |
+| ------------ | ------ |
+| 128x32 OLED  | 2      |
+| OLED Sockets | 2      |
 
 > **Warning**
 > Top plate should be 1.2mm thick!
