@@ -21,7 +21,7 @@ It's the first prototype I made, and it works as expected. However, it's a 4-lay
 
 There is nothing wrong with the assembled version, though. It's a good choice if you don't want to solder that much and ideally have someone who wants a second set (on JLCPCB, you can get assembly for 2/5 PCBs).
 
-## Bom
+## BOM
 
 ### EC Parts
 
@@ -56,6 +56,8 @@ You can obtain all of this on [deskeys](https://deskeys.io/) or other stores (PR
 | M2x4 screw    | 32     |                  |
 | PJ-320A       | 2      | Audio jack       |
 | TRRS Cable    | 1      |                  |
+
+> **Warning** > **Top plate should be 1.2mm thick**
 
 ## Build guide
 
