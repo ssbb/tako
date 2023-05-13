@@ -32,18 +32,27 @@ There is nothing wrong with the assembled version, though. It's a good choice if
 | Conical springs | 34     |
 | Sliders         | 34     |
 
-You can obtain all of this on [deskeys](https://deskeys.io/) or other stores (PR's with list of stores are welcome).
+You can obtain all of this on [deskeys](https://deskeys.io/). Please read all the notes and warnings below.
 
 > **Note**
-> If you going to use DES domes then it's recommended to use Volcano springs.
+> If you going to use DES domes then it's recommended to get DES Volcano springs to avoid sping crunch.
+
+---
 
 > **Note**
 > Silencing rings are recommended. If you want the same travel as HHKB Type-S with DES housings and DES sliders then you should get #7 rings.
+
+---
 
 > **Warning**
 > You can't use original Topre sliders with this keyboard because of the housing orientation. It's done for a few reasons: for easier mounting and to avoid cutting domes piece by piece. Topre sliders only allow a single orientation of keycap mounting, so you'll end up with keycaps at 90 degrees.
 >
 > Actually, I am not using mounting holes between housings, but still prefer this orientation. It's only a limitation of the top plate, though, so if you need to use original sliders, feel free to rotate footprints and re-generate Gerbers (or ask me to upload them).
+
+---
+
+> **Warning**
+> I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm.
 
 ### Assembled version
 
