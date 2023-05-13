@@ -40,7 +40,7 @@ You can obtain all of this on [deskeys](https://deskeys.io/). Please read all th
 ---
 
 > **Note**
-> Silencing rings are recommended. If you want the same travel as HHKB Type-S with DES housings and DES sliders then you should get #7 rings.
+> Silencing rings are recommended. If you want the same key travel as HHKB Type-S with DES housings and DES sliders then you should get #7 rings.
 
 ---
 
