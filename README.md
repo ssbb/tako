@@ -24,11 +24,6 @@ It's the first prototype I made, and it works as expected. However, it's a 4-lay
 
 There is nothing wrong with the assembled version, though. It's a good choice if you don't want to solder that much and ideally have someone who wants a second set (on JLCPCB, you can get assembly for 2/5 PCBs).
 
-> **Warning**
->
-> ~~OLED not tested yet.~~
-> OLED tested and [works on both halves](./img/assembled_oled.jpg).
-
 ## Features
 
 ### Assembled version
@@ -37,6 +32,7 @@ There is nothing wrong with the assembled version, though. It's a good choice if
 - STM32F4x1 MCU
 - Actuation Point Changer
 - USART Full-duplex
+- [OLED](./img/assembled_oled.jpg) support
 
 ## Caveats
 
