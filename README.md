@@ -62,7 +62,7 @@ You can obtain all of this on [deskeys](https://deskeys.io/). Please read all th
 ---
 
 > **Warning**
-> I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm. Original Topre housings should work just fine as well.
+> I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm. Original Topre housings should work just fine as well but not tested.
 
 ### Top plate
 
