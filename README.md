@@ -57,9 +57,10 @@ Some EC parts shops:
 The top plate was tested by me using Deskeys parts only. The build on the picture using:
 
 1. DES Carrot 35g domes
-2. DES housings (clear)
-3. DES sliders
-4. DES silencing rings #7
+2. DES Volcano springs
+3. DES Housings (Clear)
+4. DES Sliders
+5. DES Silencing rings #7
 
 > **Note**
 > If you going to use DES V3/Carrot domes then it's recommended to get DES Volcano springs to avoid sping crunch.
