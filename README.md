@@ -79,7 +79,7 @@ You can obtain all of this on [deskeys](https://deskeys.io/). Please read all th
 | Assembled PCB  | 1      | 1.6mm            |
 | Top plate      | 2      | 1.2mm thickness! |
 | Bottom plate   | 2      | 1.6mm            |
-| M2x6 standoffs | 16     |                  |
+| M2x6 standoffs | 16     | Max OD 3.3mm     |
 | M2x4 screws    | 32     |                  |
 | PJ-320A        | 2      | Audio jack       |
 | TRRS Cable     | 1      |                  |
