@@ -3,7 +3,7 @@
 ![PCB Preview](./img/assembled.jpg)
 
 > **Warning**
-> There is no this tentacles on current production files for the top plate.
+> There are no tentacles like the ones in the picture on the current production files for the top plate.
 
 <span>
   <img src="https://img.shields.io/github/last-commit/ssbb/tako?style=flat-square">
