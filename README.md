@@ -74,15 +74,15 @@ You can obtain all of this on [deskeys](https://deskeys.io/). Please read all th
 
 ### Assembled version
 
-| Part           | Amount | Details                                                                                                                                                                                                                                                                         |
-| -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Assembled PCB  | 1      | 1.6mm                                                                                                                                                                                                                                                                           |
-| Top plate      | 2      | 1.2mm thickness!                                                                                                                                                                                                                                                                |
-| Bottom plate   | 2      | 1.6mm                                                                                                                                                                                                                                                                           |
-| M2x6 standoffs | 16     | Max OD 3.3mm. [This](https://aliexpress.ru/item/32975966103.html?spm=a2g2w.orderdetail.0.0.68714aa6SrXz2j&sku_id=66665375911) and [this](https://aliexpress.ru/item/1005003126118423.html?spm=a2g2w.orderdetail.0.0.635d4aa6O5UPFC&sku_id=12000024241636343) confirmed to work. |
-| M2x4 screws    | 32     |                                                                                                                                                                                                                                                                                 |
-| PJ-320A        | 2      | Audio jack                                                                                                                                                                                                                                                                      |
-| TRRS Cable     | 1      |                                                                                                                                                                                                                                                                                 |
+| Part           | Amount | Details                                                                                                                                                                                         |
+| -------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Assembled PCB  | 1      | 1.6mm                                                                                                                                                                                           |
+| Top plate      | 2      | 1.2mm thickness!                                                                                                                                                                                |
+| Bottom plate   | 2      | 1.6mm                                                                                                                                                                                           |
+| M2x6 standoffs | 16     | Max OD 3.3mm. [This](https://aliexpress.com/item/32975966103.html?sku_id=66665375911) and [this](https://aliexpress.com/item/1005003126118423.html?sku_id=12000024241636343) confirmed to work. |
+| M2x4 screws    | 32     |                                                                                                                                                                                                 |
+| PJ-320A        | 2      | Audio jack                                                                                                                                                                                      |
+| TRRS Cable     | 1      |                                                                                                                                                                                                 |
 
 > **Warning**
 > Top plate should be 1.2mm thick!
