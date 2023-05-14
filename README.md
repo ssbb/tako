@@ -87,6 +87,10 @@ You can obtain all of this on [deskeys](https://deskeys.io/). Please read all th
 > **Warning**
 > Top plate should be 1.2mm thick!
 
+> **Note**
+> There are also mounting holes between housings on 1, 3, and 5 columns. They are not required, and it should be fine not to use them. However, in case you experience some "squishing" sounds, especially on the homerow, it is likely that the housings are not sitting properly on the PCB.
+> In this case, you'll need to add mounting somewhere at the center of the keyboard. There is no space for M2 standoffs between the housings, so you should use M1.6 or just a long M2 screw (around 10-11mm) with a nut on the bottom plate.
+
 #### Optional
 
 | Part         | Amount |
