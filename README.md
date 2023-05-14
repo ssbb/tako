@@ -62,28 +62,31 @@ You can obtain all of this on [deskeys](https://deskeys.io/). Please read all th
 ---
 
 > **Warning**
-> You can't use original Topre sliders with this keyboard because of the housing orientation. It's done for a few reasons: for easier mounting and to avoid cutting domes piece by piece. Topre sliders only allow a single orientation of keycap mounting, so you'll end up with keycaps at 90 degrees.
->
-> Actually, I am not using mounting holes between housings, but still prefer this orientation. It's only a limitation of the top plate, though, so if you need to use original sliders, feel free to rotate footprints and re-generate Gerbers (or ask me to upload them).
+> I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm. Original Topre housings should work just fine as well.
 
----
+### Top plate
 
-> **Warning**
-> I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm.
+Currently, you can only use MX-compatible sliders due to the housing orientation. Topre housings are designed for row stagger, and if you intend to use the same orientation for vertical stagger, you can't use dome strips, and there is no spacing between housings for screws. At the same time Topre sliders only allow one way keycap orientation. Therefore, if you use the current top plate with Topre sliders, your keycaps will end up at a 90-degree angle.
+
+I am planning to add more top plate options soon.
+
+- [x] Default - housings rotated 90deg.
+- [ ] Normal housing horientation. Compatible with Topre sliders. No mounting holes between housings, domes should be cut for each key instead of using 3x strips.
+- [ ] NiZ
 
 ### Assembled version
 
 | Part           | Amount | Details                                                                                                                                                                                         |
 | -------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Assembled PCB  | 1      | 1.6mm                                                                                                                                                                                           |
-| Top plate      | 2      | 1.2mm thickness!                                                                                                                                                                                |
+| Top plate      | 2      | 1.2mm thickness! See top plate section for details.                                                                                                                                             |
 | Bottom plate   | 2      | 1.6mm                                                                                                                                                                                           |
 | M2x6 standoffs | 16     | Max OD 3.3mm. [This](https://aliexpress.com/item/32975966103.html?sku_id=66665375911) and [this](https://aliexpress.com/item/1005003126118423.html?sku_id=12000024241636343) confirmed to work. |
 | M2x4 screws    | 32     |                                                                                                                                                                                                 |
 | PJ-320A        | 2      | Audio jack                                                                                                                                                                                      |
 | TRRS Cable     | 1      |                                                                                                                                                                                                 |
 
-> **Warning** > **Top plate should be 1.2mm thick!**
+> **Warning** **Top plate should be 1.2mm thick!**
 
 #### Optional
 
