@@ -49,7 +49,17 @@ There is nothing wrong with the assembled version, though. It's a good choice if
 | Conical springs | 34     |
 | Sliders         | 34     |
 
-You can obtain all of this on [deskeys](https://deskeys.io/). Please read all the notes and warnings below.
+Some EC parts shops:
+
+- [deskeys](https://deskeys.io/)
+- [Unreal Keyboard](https://unrealkeyboards.com/)
+
+The top plate was tested by me using Deskeys parts only. The build on the picture using:
+
+1. DES Carrot 35g domes
+2. DES housings (clear)
+3. DES sliders
+4. DES silencing rings #7
 
 > **Note**
 > If you going to use DES V3/Carrot domes then it's recommended to get DES Volcano springs to avoid sping crunch.
