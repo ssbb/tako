@@ -54,6 +54,8 @@ Some EC parts shops:
 - [deskeys](https://deskeys.io/)
 - [Unreal Keyboard](https://unrealkeyboards.com/)
 
+**You can only use MX-compatible sliders due to the housing orientation.** See [wiki](wiki/Housing-Orientation) for details.
+
 The top plate was tested by me using Deskeys parts only. The build on the picture using:
 
 1. DES Carrot 35g domes
@@ -74,16 +76,6 @@ The top plate was tested by me using Deskeys parts only. The build on the pictur
 
 > **Warning**
 > I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm. Original Topre housings should work just fine as well but not tested.
-
-### Top plate
-
-Currently, you can only use MX-compatible sliders due to the housing orientation. Topre housings are designed for row stagger, and if you intend to use the same orientation for vertical stagger, you can't use dome strips, and there is no spacing between housings for screws. Additionally, Topre sliders only allow for one-way keycap orientation. Therefore, if you use the current top plate with Topre sliders, your keycaps will end up at a 90-degree angle.
-
-I am planning to add more top plate options soon.
-
-- [x] Default - housings rotated 90deg.
-- [ ] Normal housing horientation. Compatible with Topre sliders. No mounting holes between housings, domes should be cut for each key instead of using 3x strips.
-- [ ] NiZ
 
 ### Assembled version
 
