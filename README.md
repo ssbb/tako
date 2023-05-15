@@ -54,7 +54,7 @@ Some EC parts shops:
 - [deskeys](https://deskeys.io/)
 - [Unreal Keyboard](https://unrealkeyboards.com/)
 
-**You can only use MX-compatible sliders due to the housing orientation.** See [wiki](wiki/Housing-Orientation) for details.
+**You can only use MX-compatible sliders due to the housing orientation.** See [wiki](https://github.com/ssbb/tako/wiki/Housing-Orientation) for details.
 
 The top plate was tested by me using Deskeys parts only. The build on the picture using:
 
