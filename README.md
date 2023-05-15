@@ -1,6 +1,6 @@
 # Tako
 
-![PCB Preview](./img/assembled.jpg)
+![PCB Preview](./docs/img/assembled.jpg)
 
 > **Warning**
 > There are no tentacles like the ones in the picture on the current production files for the top plate.
@@ -32,7 +32,7 @@ There is nothing wrong with the assembled version, though. It's a good choice if
 - STM32F4x1 MCU
 - Actuation Point Changer
 - USART Full-duplex
-- [OLED](./img/assembled_oled.jpg) support
+- [OLED](./docs/img/assembled_oled.jpg) support
 
 ## Caveats
 
