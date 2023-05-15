@@ -6,7 +6,7 @@ You can put some screws between housings (see rounded cutouts at the sides) and 
 
 <img width="350" alt="2" src="./img/housing_orientation/2.png">
 
-Now, there is no space for screws, and you can't use dome strips due to the misaligned rows. So it's logical to change the housing orientation, making columns the new "arows".
+Now, there is no space for screws, and you can't use dome strips due to the misaligned rows. So it's logical to change the housing orientation, making columns the new "rows".
 
 <img width="350" alt="3" src="./img/housing_orientation/3.png">
 
