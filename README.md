@@ -64,15 +64,13 @@ The top plate was tested by me using Deskeys parts only. The build on the pictur
 4. DES Sliders
 5. DES Silencing rings #7
 
+---
+
 > **Note**
 > If you going to use DES V3/Carrot domes then it's recommended to get DES Volcano springs to avoid sping crunch.
 
----
-
 > **Note**
 > Silencing rings are recommended. If you want the same key travel as HHKB Type-S with DES housings and DES sliders then you should get #7 rings.
-
----
 
 > **Warning**
 > I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm. Original Topre housings should work just fine as well but not tested.
