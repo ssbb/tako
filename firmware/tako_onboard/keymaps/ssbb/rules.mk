@@ -1,2 +1,0 @@
-CONSOLE_ENABLE = no
-OLED_ENABLE = no
