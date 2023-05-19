@@ -18,7 +18,7 @@
 
 Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non-contact switches.
 
-# Table of Contents
+## Table of Contents
 
 - [Status](#status)
 - [Features](#features)
