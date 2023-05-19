@@ -66,7 +66,7 @@ After you have installed all the housings, take a look at the back side. There i
 
 You could lube the housing rails (where the blue arrow points in the image above) with something like 205g0. Some people prefer to lube them, while others do not - decide for yourself.
 
-## SLIDER INSALLATION
+## SLIDERS
 
 First, add a silencing ring to each slider:
 
