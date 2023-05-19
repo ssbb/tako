@@ -80,7 +80,7 @@ Then, put them into the housings. Note the orientation of the slider rails and h
 
 If you have domes in strips, you should cut them into sets of three. In total, you'll need 10 strips with 3 domes each and 4 single domes.
 
-<img src="./img/buildguide_assembled/dome_strip.jpg" width="200 />
+<img src="./img/buildguide_assembled/dome_strip.jpg" width="200" />
 
 Then, place them over the housings so that you get something like this:
 
