@@ -18,6 +18,16 @@
 
 Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non-contact switches.
 
+# Table of Contents
+
+- [Status](#status)
+- [Features](#features)
+- [Caveats](#caveats)
+- [BOM](#bom)
+- [Build guide](#build-guide)
+- [Firmware](#firmware)
+- [Thanks](#thanks)
+
 ## Status
 
 It's the first prototype I made, and it works as expected. However, it's a 4-layer PCBA-only board, so it can be quite expensive if you only want a single keyboard. Currently, I am working on a DIY version using [STeMCell](https://github.com/megamind4089/STeMCell) and hopefully [nice!nano](https://nicekeyboards.com/nice-nano) with hand-solderable components (SOIC and 0805). Support for nice!view is also planned.
