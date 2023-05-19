@@ -70,7 +70,7 @@ You could lube the housing rails (where the blue arrow points in the image above
 
 First, add a silencing ring to each slider:
 
-![Slider silencing ring](./img/buildguide_assembled/silencing_ring.jpg)
+<img src="./img/buildguide_assembled/silencing_ring.jpg" width="400" />
 
 Then, put them into the housings. Note the orientation of the slider rails and housing rails:
 
