@@ -108,7 +108,7 @@ If this does not help, then you will need to add mounting somewhere at the cente
 
 ## Build guide
 
-Coming soon.
+- [Assembled version build guide](./docs/buildguide_assembled.md)
 
 ## Firmware
 
