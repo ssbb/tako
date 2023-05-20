@@ -111,7 +111,7 @@ Now, you can add some bumpons to the bottom plate:
 
 ## RESULT
 
-Now, you should have something like this. You are awesome!
+Now, you should have something like this. You did it, great job!
 
 Repeat the same process for the second half.
 
