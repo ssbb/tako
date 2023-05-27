@@ -21,7 +21,7 @@ At the end, you should have something like this:
 
 We are going to flash the **tinyuf2** bootloader now because it's much easier to do when there is nothing else installed.
 
-1. First, download the bootloader for **8Mhz** [here](https://github.com/ssbb/tinyuf2/actions/runs/5099813978).
+1. First, download the bootloader for **8Mhz** [here](https://github.com/ssbb/tinyuf2/actions/runs/5099838962).
 2. Install [dfu-util](https://dfu-util.sourceforge.net/) if you haven't already.
 3. Connect the PCB to USB while holding the small button next to the TRRS jack.
 4. Confirm that you have entered bootloader mode with `dfu-util -l`. You should see something like this (note the `Found DFU` rows):
