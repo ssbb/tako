@@ -15,7 +15,7 @@ At the end, you should have something like this:
 ![TRRS Jack Soldering](./img/buildguide_assembled/trrs.jpg)
 
 > **Warning**
-> Please check the bottom plate. If you printed the first version of this, which had an issue with the TRRS cutout, then you either need to drill the missing holes or cut the TRRS legs in half before soldering, so the PCB lies flat.
+> Please check the bottom plate. If you printed the first version of this, which had an issue with the TRRS cutout, then you either need to drill the missing holes or cut the TRRS legs in half before soldering, so the PCB lies flat. [See details](./fixes/fix_bottom_plate_cutouts.md).
 
 ## STANDOFFS
 
