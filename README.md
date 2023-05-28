@@ -69,7 +69,7 @@ There is nothing wrong with the assembled version, though. It's a good choice if
 > **Warning**
 > I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm. Original Topre housings should work just fine as well but not tested.
 
-Some EC parts shops:
+Some EC vendors:
 
 - [deskeys](https://deskeys.io/)
 - [Unreal Keyboard](https://unrealkeyboards.com/)
