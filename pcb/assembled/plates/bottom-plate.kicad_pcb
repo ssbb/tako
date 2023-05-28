@@ -416,7 +416,7 @@
 
   (footprint "local:MountingHole_2.2mm_M2_Pad" (layer "F.Cu")
     (tstamp 546e84c9-879e-47a7-9e03-2e0eacfa1aa4)
-    (at 216.055485 57.237644)
+    (at 216.055485 57.0682)
     (descr "Mounting Hole 2.2mm, M2")
     (tags "mounting hole 2.2mm m2")
     (property "Sheetfile" "tako.kicad_sch")
@@ -447,7 +447,7 @@
 
   (footprint "local:MountingHole_2.2mm_M2_Pad" (layer "F.Cu")
     (tstamp 55ab5a32-37dd-4f34-b378-592322b5d64b)
-    (at 235.105483 59.737639)
+    (at 235.105483 59.568195)
     (descr "Mounting Hole 2.2mm, M2")
     (tags "mounting hole 2.2mm m2")
     (property "Sheetfile" "tako.kicad_sch")
@@ -540,7 +540,7 @@
 
   (footprint "local:MountingHole_2.2mm_M2_Pad" (layer "F.Cu")
     (tstamp 73fdacc8-2259-40d4-ad5d-5201b81fd4c6)
-    (at 177.95548 56.738145)
+    (at 177.95548 56.568701)
     (descr "Mounting Hole 2.2mm, M2")
     (tags "mounting hole 2.2mm m2")
     (property "Sheetfile" "tako.kicad_sch")
@@ -602,7 +602,7 @@
 
   (footprint "local:MountingHole_2.2mm_M2_Pad" (layer "F.Cu")
     (tstamp 8040ccb1-6f78-4043-b8c4-59faa11b8813)
-    (at 158.905476 68.738141)
+    (at 158.905476 68.568697)
     (descr "Mounting Hole 2.2mm, M2")
     (tags "mounting hole 2.2mm m2")
     (property "Sheetfile" "tako.kicad_sch")
