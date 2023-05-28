@@ -124,6 +124,8 @@ If this does not help, then you will need to add mounting somewhere at the cente
 
 At the moment, only QMK is supported. While ZMK in wired mode is possible, it has not been implemented yet, and there is no guarantee that it will be.
 
+- [Assembled version firmware](https://github.com/ssbb/qmk_firmware/tree/master/keyboards/ssbb/tako_onboard)
+
 ## Thanks
 
 Special thanks to [Cipulot](https://github.com/Cipulot/) for all the work on EC keyboards and assistance.
