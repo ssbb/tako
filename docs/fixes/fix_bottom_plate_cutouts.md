@@ -8,7 +8,7 @@ There are a few ways to do it:
    This is probably the best way if you have a drill. Just stack the PCB and the bottom plate, mark the positions with a pen, and then drill the missing holes.
 
 2. **Cut TRRS socket legs**
-   You could cut the legs of the TRRS socket in half and then solder them inside the holes to keep the PCB bottom flush. That's what I actually did and showed in the build guide.
+   You could cut the legs of the TRRS socket in half and then solder them inside the holes to keep the PCB bottom flat. That's what I actually did and showed in the build guide.
 
 3. **Use foam**
    You could place foam between the PCB and the bottom plate - something around 2mm should work. This will increase the overall height, and you should use taller standoffs.
