@@ -12,4 +12,4 @@ Now, there is no space for screws, and you can't use dome strips due to the misa
 
 And thats what I did in the default top plate. By fact we using housings like they designed to be used but for columns instead of rows. However, unlike in the MX world, Topre sliders only allow keycaps to be installed in one direction. So when using Topre sliders with rotated housings, your keycaps will end up at a 90-degree angle.
 
-I don't think it's an issue at all since Topre-compatible keycaps are much rarer than MX ones. Therefore, it's unlikely that anyone making a 34-keyboard will need to use original Topre keycaps. However, if for some reason you want to do this, it's as easy as rotating the footprints in the top plate file and re-exporting it as Gerber. Feel free to contact me if you need any help.
+I don't think it's an issue at all since Topre-compatible keycaps are much rarer than MX ones. Therefore, it's unlikely that anyone making a 34-keyboard will need to use original Topre keycaps.
