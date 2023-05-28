@@ -17,33 +17,6 @@ At the end, you should have something like this:
 > **Warning**
 > Please check the bottom plate. If you printed the first version of this, which had an issue with the TRRS cutout, then you either need to drill the missing holes or cut the TRRS legs in half before soldering, so the PCB lies flat.
 
-## BOOTLOADER
-
-We are going to flash the **tinyuf2** bootloader now because it's much easier to do when there is nothing else installed.
-
-1. First, download the bootloader for **8Mhz** [here](https://github.com/ssbb/tinyuf2/actions/runs/5099838962).
-2. Install [dfu-util](https://dfu-util.sourceforge.net/) if you haven't already.
-3. Connect the PCB to USB while holding the small button next to the TRRS jack.
-4. Confirm that you have entered bootloader mode with `dfu-util -l`. You should see something like this (note the `Found DFU` rows):
-
-```
-❯ dfu-util -l
-dfu-util 0.11
-
-Copyright 2005-2009 Weston Schmidt, Harald Welte and OpenMoko Inc.
-Copyright 2010-2021 Tormod Volden and Stefan Schmidt
-This program is Free Software and has ABSOLUTELY NO WARRANTY
-Please report bugs to http://sourceforge.net/p/dfu-util/tickets/
-
-Found DFU: [0483:df11] ver=2200, devnum=1, cfg=1, intf=0, path="0-1", alt=3, name="@Device Feature/0xFFFF0000/01*004 e", serial="307F345A3431"
-Found DFU: [0483:df11] ver=2200, devnum=1, cfg=1, intf=0, path="0-1", alt=2, name="@OTP Memory /0x1FFF7800/01*512 e,01*016 e", serial="307F345A3431"
-Found DFU: [0483:df11] ver=2200, devnum=1, cfg=1, intf=0, path="0-1", alt=1, name="@Option Bytes  /0x1FFFC000/01*016 e", serial="307F345A3431"
-Found DFU: [0483:df11] ver=2200, devnum=1, cfg=1, intf=0, path="0-1", alt=0, name="@Internal Flash  /0x08000000/04*016Kg,01*064Kg,01*128Kg", serial="307F345A3431"
-```
-
-5. Flash the bootloader with `dfu-util -a 0 -i 0 -s 0x08000000:leave -D tinyuf2-ssbb_uf2_f401cbx_8mhz.bin`.
-6. Repeat for the second half.
-
 ## STANDOFFS
 
 Screw M2x6mm standoffs at the positions shown in the image below.
