@@ -32,7 +32,7 @@ Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non
 
 It's the first prototype I made, and it works as expected. However, it's a 4-layer PCBA-only board, so it can be quite expensive if you only want a single keyboard. Currently, I am working on a DIY version using [STeMCell](https://github.com/megamind4089/STeMCell) and hopefully [nice!nano](https://nicekeyboards.com/nice-nano) with hand-solderable components (SOIC and 0805). Support for nice!view is also planned.
 
-There is nothing wrong with the assembled version, though. It's a good choice if you don't want to solder that much and ideally have someone who wants a second set (on JLCPCB, you can get assembly for 2/5 PCBs).
+**I warn against building current PCB version since after working on new version for some time I realized that some things were done wrong so I strictly suggest to wait for DIY version.**
 
 ## Features
 
@@ -133,3 +133,7 @@ Special thanks to [Cipulot](https://github.com/Cipulot/) for all the work on EC 
 - [jimmerricks](https://github.com/jimmerricks/swoop) for Swoop
 - [duckyb](https://github.com/duckyb/urchin) for Urchin I was inspired by
 - Awesome [Pete Johanson](https://github.com/petejohanson) for assistance
+
+## Support
+
+Check #ssbb channel on Absolem Club discord. [Join](https://discord.gg/WKmtMGwQtC)
