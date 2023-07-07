@@ -34,6 +34,8 @@ It's the first prototype I made, and it works as expected. However, it's a 4-lay
 
 **I warn against building current PCBA version since after working on new version for some time I realized that some things were done wrong so I strictly suggest to wait for DIY version.**
 
+DIY version is currently in progress and you could check how it looks [here](./docs/img/diy_prototype.jpg).
+
 ## Features
 
 ### Assembled version
