@@ -36,6 +36,8 @@ It's the first prototype I made, and it works as expected. However, it's a 4-lay
 
 DIY version is currently in progress and you could check how it looks [here](./docs/img/diy_prototype.jpg).
 
+ETA: early August.
+
 ## Features
 
 ### Assembled version
