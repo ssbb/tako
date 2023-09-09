@@ -1,6 +1,6 @@
 # Tako
 
-![Tako Keyboard](./docs/img/tako.jpg)
+<img src="./docs/img/tako.jpg" height="auto" width="100%" style="border-radius: 5px">
 
 <span>
   <img src="https://img.shields.io/github/last-commit/ssbb/tako?style=flat-square">
