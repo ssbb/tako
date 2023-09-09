@@ -9,10 +9,55 @@
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=success&style=flat-square">
 </span>
 
+## BOM
+
+### MCU
+
+RP2040-based boards should be used for wired build - Liatris, Frood, Sea-Picro, Splinky, [etc](https://github.com/qmk/qmk_firmware/blob/master/docs/platformdev_rp2040.md#rp2040-community-edition-idrp2040_ce). **ATmega32U4 won't work.**
+
+For wirless build [nice!nano](https://nicekeyboards.com/nice-nano/) can be used.
+
+### Display
+
+5 pins for [nice!view](https://nicekeyboards.com/nice-view/) are exposed. 128x32 OLED can be used on first 4 pins.
+
+### Components
+
+| Component       | Package        | Amount | Details                                                                                                                                   |
+| OPA350          | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Texas-Instruments-_C13388.html)                                                               |
+| 74HC4051        | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Nexperia-_C9386.html)                                                                         |
+| Reset Switch    |                | 2      | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_PANASONIC-EVQPUC02K_C79174.html)                                              |
+| Power Switch    |                | 2      | **WIRELESS ONLY**. [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_C-K-PCM12SMTR_C221841.html)                                  |
+| PJ-320A         |                | 2      | **WIRED ONLY**. [LCSC](https://www.lcsc.com/product-detail/_XKB-Connectivity-_C2884926.html)                                              |
+| 100nF Capacitor | 0805           | 4      | [LCSC](https://www.lcsc.com/product-detail/_FH-Guangdong-Fenghua-Advanced-Tech-_C38141.html)                                              |
+| 220pF Capacitor | 0805           | 2      | [LCSC](https://www.lcsc.com/product-detail/_Chinocera-_C465163.html)                                                                      |
+| 100Ω Resistor   | 0805           | 8      | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C17408.html)                                                         |
+| 1kΩ Resistor    | 0805           | 2      | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C17513.html)                                                         |
+| 5.1kΩ Resitor   | 0805           | 2      | **WIRED ONLY** [LCSC](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F5101T5E_C27834.html) |
+| 100kΩ Resistor  | 0805           | 12     | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C149504.html)                                                        |
+
+### Mounting
+
+#### OEM Plate
+
+| Part            | Amount | Details                                                                               |
+|-----------------|--------|---------------------------------------------------------------------------------------|
+| M2x6 Standoff   | 16     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740103)   |
+| M2x4 Screws     | 32     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000019001985950) |
+| M1.6x6 Standoff | 12     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740086)   |
+| M1.6x4 screws   | 24     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000019001985952) |
+
+#### NIZ Plate
+
+| Part            | Amount | Details                                                                               |
+|-----------------|--------|---------------------------------------------------------------------------------------|
+| M2x6 Standoff   | 28     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740103)   |
+| M2x4 Screws     | 56     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000019001985950) |
+
 ### EC Parts
 
 | Part            | Amount |
-| --------------- | ------ |
+|-----------------|--------|
 | Housings        | 34     |
 | Domes           | 34     |
 | Conical springs | 34     |
@@ -20,22 +65,17 @@
 | Silencing rings | 34     |
 
 - If you going to use DES V3/Carrot domes then it's recommended to get DES Volcano springs to avoid sping crunch.
-- Silencing rings are recommended. If you want the same key travel as HHKB Type-S with DES housings and DES sliders then you should get #7 rings.
+- Silencing rings are recommended for DES parts. If you want the same key travel as HHKB Type-S with DES housings and DES sliders then you should get #7 rings.
 
 Some EC vendors:
 
 - [deskeys](https://deskeys.io/)
 - [Unreal Keyboard](https://unrealkeyboards.com/)
+- [NIZ Store](https://www.nizkeyboard.com/products/2019-new-niz-ec-switch)
+- [Beekeeb (NIZ)](https://shop.beekeeb.com/product/niz-ec-switch/)
+- YMDK [Housings](https://aliexpress.com/item/1005005724051113.html), [Sliders](https://aliexpress.com/item/1005005721976294.html) and [Domes](https://aliexpress.com/item/1005005721050116.html)
 
-**You can only use MX-compatible sliders due to the housing orientation.** [See details](./docs/housing_orientation.md).
-
-The top plate was tested by me using Deskeys parts only. The build on the picture using:
-
-1. DES Carrot 35g domes
-2. DES Volcano springs
-3. DES Housings (Clear)
-4. DES Sliders
-5. DES Silencing rings #7
+**You can only use MX-compatible sliders due to the housing orientation.** [See details](./docs/housing_orientation.md). NIZ sliders are MX-compatible by default.
 
 ## Thanks
 
