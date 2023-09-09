@@ -1,4 +1,4 @@
-# Tako
+# Tako rev0
 
 ![PCB Preview](./docs/img/assembled.jpg)
 
