@@ -24,6 +24,7 @@ For wirless build [nice!nano](https://nicekeyboards.com/nice-nano/) can be used.
 ### Components
 
 | Component            | Package        | Amount | Details                                                                                                                                   |
+|----------------------|----------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | OPA350               | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Texas-Instruments-_C13388.html)                                                               |
 | 74HC4051             | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Nexperia-_C9386.html)                                                                         |
 | Reset Switch         |                | 2      | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_PANASONIC-EVQPUC02K_C79174.html)                                              |
