@@ -23,7 +23,7 @@ For wirless build [nice!nano](https://nicekeyboards.com/nice-nano/) can be used.
 
 ### Display
 
-5 pins for [nice!view](https://nicekeyboards.com/nice-view/) are exposed. 128x32 OLED can be used on first 4 pins.
+5 pins for [nice!view](https://nicekeyboards.com/nice-view/) are exposed. 128x32 OLED can be used on first 4 pins but won't be perfectly aligned.
 
 ### Components
 
