@@ -1,6 +1,6 @@
 # Tako
 
-<img src="./docs/img/tako.jpg" height="auto" width="100%" style="border-radius: 5px">
+<img src="./docs/img/tako.jpg" height="auto" width="100%" style="display: block; border-radius: 5px">
 
 <span>
   <img src="https://img.shields.io/github/last-commit/ssbb/tako?style=flat-square">
