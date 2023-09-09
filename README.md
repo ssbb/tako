@@ -23,18 +23,18 @@ For wirless build [nice!nano](https://nicekeyboards.com/nice-nano/) can be used.
 
 ### Components
 
-| Component       | Package        | Amount | Details                                                                                                                                   |
-| OPA350          | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Texas-Instruments-_C13388.html)                                                               |
-| 74HC4051        | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Nexperia-_C9386.html)                                                                         |
-| Reset Switch    |                | 2      | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_PANASONIC-EVQPUC02K_C79174.html)                                              |
-| Power Switch    |                | 2      | **WIRELESS ONLY**. [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_C-K-PCM12SMTR_C221841.html)                                  |
-| PJ-320A         |                | 2      | **WIRED ONLY**. [LCSC](https://www.lcsc.com/product-detail/_XKB-Connectivity-_C2884926.html)                                              |
-| 100nF Capacitor | 0805           | 4      | [LCSC](https://www.lcsc.com/product-detail/_FH-Guangdong-Fenghua-Advanced-Tech-_C38141.html)                                              |
-| 220pF Capacitor | 0805           | 2      | [LCSC](https://www.lcsc.com/product-detail/_Chinocera-_C465163.html)                                                                      |
-| 100Ω Resistor   | 0805           | 8      | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C17408.html)                                                         |
-| 1kΩ Resistor    | 0805           | 2      | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C17513.html)                                                         |
-| 5.1kΩ Resitor   | 0805           | 2      | **WIRED ONLY** [LCSC](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F5101T5E_C27834.html) |
-| 100kΩ Resistor  | 0805           | 12     | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C149504.html)                                                        |
+| Component            | Package        | Amount | Details                                                                                                                                   |
+| OPA350               | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Texas-Instruments-_C13388.html)                                                               |
+| 74HC4051             | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Nexperia-_C9386.html)                                                                         |
+| Reset Switch         |                | 2      | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_PANASONIC-EVQPUC02K_C79174.html)                                              |
+| Power Switch         |                | 2      | **WIRELESS ONLY**. [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_C-K-PCM12SMTR_C221841.html)                                  |
+| PJ-320A              |                | 2      | **WIRED ONLY**. [LCSC](https://www.lcsc.com/product-detail/_XKB-Connectivity-_C2884926.html)                                              |
+| 100nF Capacitor      | 0805           | 4      | [LCSC](https://www.lcsc.com/product-detail/_FH-Guangdong-Fenghua-Advanced-Tech-_C38141.html)                                              |
+| 220pF Capacitor      | 0805           | 2      | [LCSC](https://www.lcsc.com/product-detail/_Chinocera-_C465163.html)                                                                      |
+| 100&#8486; Resistor  | 0805           | 8      | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C17408.html)                                                         |
+| 1k&#8486; Resistor   | 0805           | 2      | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C17513.html)                                                         |
+| 5.1k&#8486; Resitor  | 0805           | 2      | **WIRED ONLY** [LCSC](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F5101T5E_C27834.html) |
+| 100k&#8486; Resistor | 0805           | 12     | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C149504.html)                                                        |
 
 ### Mounting
 
