@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=success&style=flat-square">
 </span>
 
+Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non-contact switches.
+
 ## BOM
 
 ### MCU
