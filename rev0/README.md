@@ -3,16 +3,7 @@
 ![PCB Preview](./docs/img/assembled.jpg)
 
 > **Warning**
-> There are no tentacles like the ones in the picture on the current production files for the top plate.
-
-<span>
-  <img src="https://img.shields.io/github/last-commit/ssbb/tako?style=flat-square">
-  <a href="https://github.com/ssbb/tako/releases">
-    <img src="https://img.shields.io/github/v/release/ssbb/tako?include_prereleases&color=success&style=flat-square">
-    <img src="https://img.shields.io/github/downloads/ssbb/tako/total?color=success&style=flat-square">
-  </a>
-  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=success&style=flat-square">
-</span>
+> I warn against building this version since after working on new version for some time I realized that some things were done wrong so I strictly suggest to build rev1. I am not planning to support this so it can't be considered as PCBA alternative to rev1.
 
 ---
 
@@ -20,27 +11,13 @@ Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non
 
 ## Table of Contents
 
-- [Status](#status)
 - [Features](#features)
 - [Caveats](#caveats)
 - [BOM](#bom)
 - [Build guide](#build-guide)
 - [Firmware](#firmware)
-- [Thanks](#thanks)
-
-## Status
-
-It's the first prototype I made, and it works as expected. However, it's a 4-layer PCBA-only board, so it can be quite expensive if you only want a single keyboard. Currently, I am working on a DIY version using [STeMCell](https://github.com/megamind4089/STeMCell) and hopefully [nice!nano](https://nicekeyboards.com/nice-nano) with hand-solderable components (SOIC and 0805). Support for nice!view is also planned.
-
-**I warn against building current PCBA version since after working on new version for some time I realized that some things were done wrong so I strictly suggest to wait for DIY version.**
-
-DIY version is currently in progress and you could check how it looks [here](./docs/img/diy_prototype.jpg).
-
-ETA: early August.
 
 ## Features
-
-### Assembled version
 
 - Onboard USB-C with ESD protection
 - STM32F4x1 MCU
@@ -51,42 +28,9 @@ ETA: early August.
 ## Caveats
 
 - No tenting puck support since there is no space between housings for screw holes. But could be done on bottom plate with different case design.
+- No reset button (the one you see on the photo is a STM32 Boot0)
 
 ## BOM
-
-### EC Parts
-
-| Part            | Amount |
-| --------------- | ------ |
-| Housings        | 34     |
-| Domes           | 34     |
-| Conical springs | 34     |
-| Sliders         | 34     |
-| Silencing rings | 34     |
-
-> **Note**
-> If you going to use DES V3/Carrot domes then it's recommended to get DES Volcano springs to avoid sping crunch.
-
-> **Note**
-> Silencing rings are recommended. If you want the same key travel as HHKB Type-S with DES housings and DES sliders then you should get #7 rings.
-
-> **Warning**
-> I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm. Original Topre housings should work just fine as well but not tested.
-
-Some EC vendors:
-
-- [deskeys](https://deskeys.io/)
-- [Unreal Keyboard](https://unrealkeyboards.com/)
-
-**You can only use MX-compatible sliders due to the housing orientation.** [See details](./docs/housing_orientation.md).
-
-The top plate was tested by me using Deskeys parts only. The build on the picture using:
-
-1. DES Carrot 35g domes
-2. DES Volcano springs
-3. DES Housings (Clear)
-4. DES Sliders
-5. DES Silencing rings #7
 
 ### Assembled version
 
@@ -122,22 +66,10 @@ If this does not help, then you will need to add mounting somewhere at the cente
 
 ## Build guide
 
-- [Assembled version build guide](./docs/buildguide_assembled.md)
+- [Build guide](./docs/buildguide_assembled.md)
 
 ## Firmware
 
-At the moment, only QMK is supported. While ZMK in wired mode is possible, it has not been implemented yet, and there is no guarantee that it will be.
+Only QMK is supported.
 
-- [Assembled version firmware](https://github.com/ssbb/qmk_firmware/tree/master/keyboards/ssbb/tako/onboard)
-
-## Thanks
-
-Special thanks to [Cipulot](https://github.com/Cipulot/) for all the work on EC keyboards and assistance.
-
-- [jimmerricks](https://github.com/jimmerricks/swoop) for Swoop
-- [duckyb](https://github.com/duckyb/urchin) for Urchin I was inspired by
-- Awesome [Pete Johanson](https://github.com/petejohanson) for assistance
-
-## Support
-
-Check #ssbb channel on Absolem Club discord. [Join](https://discord.gg/WKmtMGwQtC)
+- [Assembled version firmware](https://github.com/ssbb/qmk_firmware/tree/master/keyboards/ssbb/tako)
