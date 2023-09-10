@@ -50,16 +50,16 @@ For wirless build [nice!nano](https://nicekeyboards.com/nice-nano/) can be used.
 | Part            | Amount | Details                                                                               |
 |-----------------|--------|---------------------------------------------------------------------------------------|
 | M2x6 Standoff   | 16     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740103)   |
-| M2x4 Screws     | 32     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000019001985950) |
+| M2x4 Screws     | 32     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000034160900192) |
 | M1.6x6 Standoff | 12     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740086)   |
-| M1.6x4 screws   | 24     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000019001985952) |
+| M1.6x4 screws   | 24     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000019001985950) |
 
 #### NIZ Plate
 
 | Part            | Amount | Details                                                                               |
 |-----------------|--------|---------------------------------------------------------------------------------------|
 | M2x6 Standoff   | 28     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740103)   |
-| M2x4 Screws     | 56     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000019001985950) |
+| M2x4 Screws     | 56     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000034160900192) |
 
 ### EC Parts
 
