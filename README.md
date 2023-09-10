@@ -19,13 +19,16 @@ Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non
 
 RP2040-based boards should be used for wired build - Liatris, Frood, Sea-Picro, Splinky, [etc](https://github.com/qmk/qmk_firmware/blob/master/docs/platformdev_rp2040.md#rp2040-community-edition-idrp2040_ce).
 
-For wirless build [nice!nano](https://nicekeyboards.com/nice-nano/) can be used.
-
 **ATmega32U4 (Pro Micro) won't work.**
+
+#### Wireless
+
+For a wireless build, you can use [nice!nano](https://nicekeyboards.com/nice-nano/). Keep in mind that EC matrix consume significantly more power than mechanical keyboards. An 80mAh battery placed under the MCU will last for about a day only. I don't have exact numbers yet (still waiting for a power profiler), but you will likely need to use a larger battery. Consider using 9mm standoffs with a 3D-printed or acrylic spacer between the PCB and the bottom plate, and place the battery there.
+
 
 ### Display
 
-5 pins for [nice!view](https://nicekeyboards.com/nice-view/) are exposed. 128x32 OLED can be used on first 4 pins but won't be perfectly aligned.
+5 pins for [nice!view](https://nicekeyboards.com/nice-view/) are exposed. 128x32 OLED can be used on first 4 pins but won't be perfectly centered.
 
 ### Components
 
