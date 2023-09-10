@@ -1,9 +1,7 @@
 # Tako
 
-![PCB Preview](./docs/img/assembled.jpg)
-
-> **Warning**
-> There are no tentacles like the ones in the picture on the current production files for the top plate.
+![Tako Keyboard](./docs/img/tako2.jpg)
+![Tako Keyboard](./docs/img/pcb.png)
 
 <span>
   <img src="https://img.shields.io/github/last-commit/ssbb/tako?style=flat-square">
@@ -14,121 +12,97 @@
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=success&style=flat-square">
 </span>
 
----
 
 Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non-contact switches.
 
-## Table of Contents
+## Bill Of Materials (BOM)
 
-- [Status](#status)
-- [Features](#features)
-- [Caveats](#caveats)
-- [BOM](#bom)
-- [Build guide](#build-guide)
-- [Firmware](#firmware)
-- [Thanks](#thanks)
+### Production Files
 
-## Status
+Depending on which parts you are going to use, make sure to select the proper top plate (OEM or NIZ). Ensure you use the correct thickness - the **OEM plate should be 1.2mm**, and the NIZ should be 1.6mm!
 
-It's the first prototype I made, and it works as expected. However, it's a 4-layer PCBA-only board, so it can be quite expensive if you only want a single keyboard. Currently, I am working on a DIY version using [STeMCell](https://github.com/megamind4089/STeMCell) and hopefully [nice!nano](https://nicekeyboards.com/nice-nano) with hand-solderable components (SOIC and 0805). Support for nice!view is also planned.
+### MCU
 
-**I warn against building current PCBA version since after working on new version for some time I realized that some things were done wrong so I strictly suggest to wait for DIY version.**
+RP2040-based boards should be used for wired build - Liatris, Frood, Sea-Picro, Splinky, [etc](https://github.com/qmk/qmk_firmware/blob/master/docs/platformdev_rp2040.md#rp2040-community-edition-idrp2040_ce).
 
-DIY version is currently in progress and you could check how it looks [here](./docs/img/diy_prototype.jpg).
+**ATmega32U4 (Pro Micro) won't work.**
 
-ETA: early August.
+#### Wireless
 
-## Features
+For a wireless build, you can use [nice!nano](https://nicekeyboards.com/nice-nano/). Keep in mind that EC matrix consume significantly more power than mechanical keyboards. An 80mAh battery placed under the MCU will last for about a day only. I don't have exact numbers yet (still waiting for a power profiler), but you will likely need to use a larger battery. Consider using longer standoffs with a 3D-printed or acrylic spacer between the PCB and the bottom plate, and place the battery there.
 
-### Assembled version
 
-- Onboard USB-C with ESD protection
-- STM32F4x1 MCU
-- Actuation Point Changer
-- USART Full-duplex
-- [OLED](./docs/img/assembled_oled.jpg) support
+### Display
 
-## Caveats
+5 pins for [nice!view](https://nicekeyboards.com/nice-view/) are exposed. 128x32 OLED can be used on first 4 pins but won't be perfectly centered.
 
-- No tenting puck support since there is no space between housings for screw holes. But could be done on bottom plate with different case design.
+### Components
 
-## BOM
+| Component            | Package        | Amount | Details                                                                                                                                  |
+|----------------------|----------------|--------|------------------------------------------------------------------------------------------------------------------------------------------|
+| OPA350               | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Texas-Instruments-_C13388.html)                                                              |
+| 74HC4051             | SOIC-8 / SOP-8 | 2      | [LCSC](https://www.lcsc.com/product-detail/_Nexperia-_C9386.html)                                                                        |
+| 100nF Capacitor      | 0805           | 4      | [LCSC](https://www.lcsc.com/product-detail/_FH-Guangdong-Fenghua-Advanced-Tech-_C38141.html)                                             |
+| 220pF Capacitor      | 0805           | 2      | [LCSC](https://www.lcsc.com/product-detail/_Chinocera-_C465163.html)                                                                     |
+| 100&#8486; Resistor  | 0805           | 8      | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C17408.html)                                                        |
+| 1k&#8486; Resistor   | 0805           | 2      | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C17513.html)                                                        |
+| 100k&#8486; Resistor | 0805           | 12     | [LCSC](https://www.lcsc.com/product-detail/_UNI-ROYAL-Uniroyal-Elec-_C149504.html)                                                       |
+| Reset Switch         |                | 2      | [LCSC](https://www.lcsc.com/product-detail/Tactile-Switches_PANASONIC-EVQPUC02K_C79174.html)                                             |
+| PJ-320A              |                | 2      | *Wired only*. [LCSC](https://www.lcsc.com/product-detail/_XKB-Connectivity-_C2884926.html)                                               |
+| 5.1k&#8486; Resitor  | 0805           | 2      | *Wired only*. [LCSC](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F5101T5E_C27834.html) |
+| Power Switch         |                | 2      | *Wireless only*. [LCSC](https://www.lcsc.com/product-detail/Slide-Switches_C-K-PCM12SMTR_C221841.html)                                   |
+
+### Mounting
+
+#### OEM Plate
+
+| Part            | Amount | Details                                                                               |
+|-----------------|--------|---------------------------------------------------------------------------------------|
+| M2x6 Standoff   | 16     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740103)   |
+| M2x4 Screws     | 32     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000034160900192) |
+| M1.6x6 Standoff | 12     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740086)   |
+| M1.6x4 screws   | 24     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000019001985950) |
+
+#### NIZ Plate
+
+| Part            | Amount | Details                                                                               |
+|-----------------|--------|---------------------------------------------------------------------------------------|
+| M2x6 Standoff   | 28     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740103)   |
+| M2x4 Screws     | 56     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000034160900192) |
 
 ### EC Parts
 
 | Part            | Amount |
-| --------------- | ------ |
+|-----------------|--------|
 | Housings        | 34     |
 | Domes           | 34     |
 | Conical springs | 34     |
 | Sliders         | 34     |
 | Silencing rings | 34     |
 
-> **Note**
-> If you going to use DES V3/Carrot domes then it's recommended to get DES Volcano springs to avoid sping crunch.
-
-> **Note**
-> Silencing rings are recommended. If you want the same key travel as HHKB Type-S with DES housings and DES sliders then you should get #7 rings.
-
-> **Warning**
-> I tested only with DES housings and used 14.7x14.1mm cutouts recommended by DES while original Topre often use 14.6x14mm. Original Topre housings should work just fine as well but not tested.
+- If you going to use DES V3/Carrot domes then it's recommended to get DES Volcano springs to avoid sping crunch.
+- Silencing rings are recommended for DES parts. If you want the same key travel as HHKB Type-S with DES housings and DES sliders then you should get #7 rings.
 
 Some EC vendors:
 
 - [deskeys](https://deskeys.io/)
 - [Unreal Keyboard](https://unrealkeyboards.com/)
+- [NIZ Store](https://www.nizkeyboard.com/products/2019-new-niz-ec-switch)
+- [Beekeeb (NIZ)](https://shop.beekeeb.com/product/niz-ec-switch/)
+- YMDK [Housings](https://aliexpress.com/item/1005005724051113.html), [Sliders](https://aliexpress.com/item/1005005721976294.html) and [Domes](https://aliexpress.com/item/1005005721050116.html)
 
 **You can only use MX-compatible sliders due to the housing orientation.** [See details](./docs/housing_orientation.md).
 
-The top plate was tested by me using Deskeys parts only. The build on the picture using:
+NIZ sliders are MX-compatible by default.
 
-1. DES Carrot 35g domes
-2. DES Volcano springs
-3. DES Housings (Clear)
-4. DES Sliders
-5. DES Silencing rings #7
+## Build Guide
 
-### Assembled version
-
-| Part           | Amount | Details                                                                                                                                                                                         |
-| -------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Assembled PCB  | 1      | 1.6mm                                                                                                                                                                                           |
-| Top plate      | 2      | 1.2mm thickness!                                                                                                                                                                                |
-| Bottom plate   | 2      | 1.6mm                                                                                                                                                                                           |
-| M2x6 standoffs | 16     | Max OD 3.3mm. [This](https://aliexpress.com/item/32975966103.html?sku_id=66665375911) and [this](https://aliexpress.com/item/1005003126118423.html?sku_id=12000024241636343) confirmed to work. |
-| M2x4 screws    | 32     |                                                                                                                                                                                                 |
-| PJ-320A        | 2      | Audio jack                                                                                                                                                                                      |
-| TRRS Cable     | 1      |                                                                                                                                                                                                 |
-
-> **Warning** **Top plate should be 1.2mm thick!**
-
-#### Optional
-
-| Part         | Amount |
-| ------------ | ------ |
-| 128x32 OLED  | 2      |
-| OLED Sockets | 2      |
-
-#### Optional mounting
-
-There are also mounting holes between housings on 1, 3, and 5 columns. They are not required, and it should be fine not to use them. However, in case you experience some "squishing" sounds, especially on the homerow, it is likely that the housings are not sitting properly on the PCB. You should try to re-assemble keyboard first to ensure domes and springs aligned properly.
-
-If this does not help, then you will need to add mounting somewhere at the center of the keyboard. There is no space for M2 standoffs between the housings, so you should use M1.6 (max OD is 2.5mm) or just a long M2 screw (around 11mm) with a nut on the bottom plate.
-
-| Part             | Amount | Details                                                                                                                       |
-| ---------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| M1.6x6 standoffs | 12     | [Aliexpress](https://aliexpress.ru/item/4000582961951.html?spm=a2g2w.orderdetail.0.0.72ee4aa6N6dYoc&sku_id=10000003716437218) |
-| M1.6x4 screws    | 24     |                                                                                                                               |
-
-## Build guide
-
-- [Assembled version build guide](./docs/buildguide_assembled.md)
+[Build Guide](./docs/buildguide.md)
 
 ## Firmware
 
-At the moment, only QMK is supported. While ZMK in wired mode is possible, it has not been implemented yet, and there is no guarantee that it will be.
-
-- [Assembled version firmware](https://github.com/ssbb/qmk_firmware/tree/master/keyboards/ssbb/tako/onboard)
+- [QMK Firmware](https://github.com/ssbb/qmk_firmware/tree/master/keyboards/ssbb/tako)
+- [ZMK Firmware](https://github.com/ssbb/tako-config)
 
 ## Thanks
 
@@ -137,6 +111,7 @@ Special thanks to [Cipulot](https://github.com/Cipulot/) for all the work on EC 
 - [jimmerricks](https://github.com/jimmerricks/swoop) for Swoop
 - [duckyb](https://github.com/duckyb/urchin) for Urchin I was inspired by
 - Awesome [Pete Johanson](https://github.com/petejohanson) for assistance
+- [kanru](https://github.com/kanru) for his work on Zephyr driver for HHKB which I used for reference
 
 ## Support
 
