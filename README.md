@@ -17,9 +17,11 @@ Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non
 
 ### MCU
 
-RP2040-based boards should be used for wired build - Liatris, Frood, Sea-Picro, Splinky, [etc](https://github.com/qmk/qmk_firmware/blob/master/docs/platformdev_rp2040.md#rp2040-community-edition-idrp2040_ce). **ATmega32U4 won't work.**
+RP2040-based boards should be used for wired build - Liatris, Frood, Sea-Picro, Splinky, [etc](https://github.com/qmk/qmk_firmware/blob/master/docs/platformdev_rp2040.md#rp2040-community-edition-idrp2040_ce).
 
 For wirless build [nice!nano](https://nicekeyboards.com/nice-nano/) can be used.
+
+**ATmega32U4 (Pro Micro) won't work.**
 
 ### Display
 
