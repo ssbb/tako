@@ -19,7 +19,7 @@ Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non
 
 ### Production Files
 
-Depending on which parts you are going to use, make sure to select the proper top plate (OEM or NIZ). Ensure you use the correct thickness - the **OEM plate should be 1.2mm**, and the NIZ should be 1.6mm!
+Depending on which parts you are going to use, make sure to select the proper top plate (OG or NIZ). Ensure you use the correct thickness - the **OG plate should be 1.2mm**, and the NIZ should be 1.6mm!
 
 ### MCU
 
@@ -54,7 +54,7 @@ For a wireless build, you can use [nice!nano](https://nicekeyboards.com/nice-nan
 
 ### Mounting
 
-#### OEM Plate
+#### OG Plate
 
 | Part            | Amount | Details                                                                               |
 |-----------------|--------|---------------------------------------------------------------------------------------|
