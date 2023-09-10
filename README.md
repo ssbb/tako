@@ -13,7 +13,11 @@
 
 Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non-contact switches.
 
-## BOM
+## Bill Of Materials (BOM)
+
+### Production Files
+
+Depending on which parts you are going to use, make sure to select the proper top plate (OEM or NIZ). Ensure you use the correct thickness - the **OEM plate should be 1.2mm**, and the NIZ should be 1.6mm!
 
 ### MCU
 
