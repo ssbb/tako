@@ -93,6 +93,10 @@ Some EC vendors:
 
 NIZ sliders are MX-compatible by default.
 
+## Build Guide
+
+[Build Guide](./docs/buildguide.md)
+
 ## Firmware
 
 - [QMK Firmware](https://github.com/ssbb/qmk_firmware/tree/master/keyboards/ssbb/tako)
