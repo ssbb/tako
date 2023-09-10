@@ -28,5 +28,9 @@ fp-info-cache
 *.xml
 *.csv
 
-jlcpcb
+# Interactive BOM
 bom
+
+# Production artifacts
+jlcpcb
+*_gerber/
