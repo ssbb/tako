@@ -5102,10 +5102,10 @@
   (symbol (lib_id "Device:R") (at 350.52 189.23 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 385ee864-8b19-4afc-9dcd-646589635ba1)
-    (property "Reference" "R13" (at 350.52 184.15 90)
+    (property "Reference" "R112" (at 350.52 184.15 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k" (at 350.52 186.69 90)
+    (property "Value" "5.1k" (at 350.52 186.69 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 350.52 191.008 90)
@@ -5119,7 +5119,7 @@
     (instances
       (project "tako"
         (path "/72340b64-d7ab-445f-b1ce-2d9b5de13513"
-          (reference "R13") (unit 1)
+          (reference "R112") (unit 1)
         )
       )
     )
@@ -6110,7 +6110,7 @@
     (property "Reference" "R12" (at 137.16 252.73 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "10k" (at 137.16 255.27 90)
+    (property "Value" "5.1k" (at 137.16 255.27 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 137.16 259.588 90)

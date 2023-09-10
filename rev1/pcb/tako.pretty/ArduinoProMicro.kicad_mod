@@ -1,6 +1,6 @@
 (footprint "ArduinoProMicro" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr through_hole exclude_from_bom)
   (fp_text reference "U1" (at 0 1.625) (layer "F.SilkS")
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     (tstamp 054e83b8-d1b8-4034-b82e-edf2fdbad41e)

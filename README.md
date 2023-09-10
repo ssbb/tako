@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=success&style=flat-square">
 </span>
 
+
 Tako is a vertical stagger split keyboard with electrostatic capacitive (EC) non-contact switches.
 
 ## Bill Of Materials (BOM)
@@ -27,7 +28,7 @@ RP2040-based boards should be used for wired build - Liatris, Frood, Sea-Picro, 
 
 #### Wireless
 
-For a wireless build, you can use [nice!nano](https://nicekeyboards.com/nice-nano/). Keep in mind that EC matrix consume significantly more power than mechanical keyboards. An 80mAh battery placed under the MCU will last for about a day only. I don't have exact numbers yet (still waiting for a power profiler), but you will likely need to use a larger battery. Consider using 9mm standoffs with a 3D-printed or acrylic spacer between the PCB and the bottom plate, and place the battery there.
+For a wireless build, you can use [nice!nano](https://nicekeyboards.com/nice-nano/). Keep in mind that EC matrix consume significantly more power than mechanical keyboards. An 80mAh battery placed under the MCU will last for about a day only. I don't have exact numbers yet (still waiting for a power profiler), but you will likely need to use a larger battery. Consider using longer standoffs with a 3D-printed or acrylic spacer between the PCB and the bottom plate, and place the battery there.
 
 
 ### Display

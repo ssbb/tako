@@ -4,7 +4,7 @@
   (tags "R")
   (property "Sheetfile" "nice-sweep.kicad_sch")
   (property "Sheetname" "")
-  (attr through_hole)
+  (attr smd exclude_from_bom)
   (fp_text reference "Bat+" (at 0 1.5) (layer "User.1") hide
       (effects (font (size 0.8128 0.8128) (thickness 0.15)))
     (tstamp 25ed2080-ea15-4bf4-aa78-280bfb7f4d63)

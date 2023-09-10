@@ -1,7 +1,7 @@
 (footprint "ecs_pad_1U_no_ring_90deg" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr " StepUp generated footprint")
-  (attr smd)
+  (attr smd exclude_from_bom)
   (fp_text reference "REF**" (at -6 -8) (layer "Dwgs.User")
       (effects (font (size 0.8 0.8) (thickness 0.12)))
     (tstamp 2ff15691-c9f8-4e08-a694-3230522780fc)
