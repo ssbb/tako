@@ -37,10 +37,14 @@ You should see a matrix scan with readings, and the values should change when yo
 
 Now that you're sure everything works, it's time to prepare the top plate.
 
-First of all, you should install the standoffs. If you're building an OEM plate, use M1.6 standoffs for the six yellow-marked positions, and the rest should be M2. For the NIZ plate, all standoffs should be M2. Then, proceed to install the housings. Refer to the red mark for the correct orientation. Finally, put sliders (with optional silencing rings installed) into the housings.
+First of all, you should install the standoffs. If you're building an OEM plate, use M1.6 standoffs for the six yellow-marked positions, and the rest should be M2. For the NIZ plate, all standoffs should be M2. Then, proceed to install the housings. Refer to the red mark for the correct orientation. Finally, put sliders (with optional silencing rings installed) into the housings. You can lube slider rails prior of installing them.
 
 ![Top Plate](./img/buildguide/top_plate.jpg)
 
 Now, cut your domes so you have five 3x strips and two individual domes (or 10 and 4 for both sides). While holding top plate with one hand - place them to the housings with the other hand. Make sure all of them are aligned well and then put springs inside the domes.
 
 ![Top Plate Domes](./img/buildguide/top_plate_domes.jpg)
+
+## Final assembly
+
+Now, cover the top plate with the assembled PCB, and then place the bottom plate on top of it. Secure everything with screws, remembering to use M1.6 screws for the six center standoffs when building the OEM plate.
