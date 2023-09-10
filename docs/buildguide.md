@@ -20,6 +20,15 @@ Keep in mind that the left and right sides are not 100% mirrored, so refer to th
 
 If you have no experience in soldering SMD components then you could check [SMD Soldering Tutorial](https://www.youtube.com/watch?v=fYInlAmPnGo) video.
 
-Solder MCU and display sockets, battery and power switch (for wireless) at this step as well. At the end you should have something like this:
+Solder the MCU and display sockets, battery, and power switch (for wireless) at this step as well. At the end, your assembly should resemble the following (note that you don't need to solder the TRRS jack for wireless):
 
 ![Assembled PCB](./img/buildguide/assembled_pcb.jpg)
+
+## Test
+
+Now, you can test the PCB before proceeding to ensure everything is done correctly. Flash the firmware (release contains default firmware for both QMK and ZMK) and open the console (it's enabled by default):
+
+- QMK: https://github.com/qmk/qmk_firmware/blob/master/docs/faq_debug.md
+- ZMK: https://zmk.dev/docs/development/usb-logging#viewing-logs
+
+You should see matrix scan with readings and values should change when you place your finger at EC pads.
