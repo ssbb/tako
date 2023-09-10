@@ -48,3 +48,5 @@ Now, cut your domes so you have five 3x strips and two individual domes (or 10 a
 ## Final assembly
 
 Now, cover the top plate with the assembled PCB, and then place the bottom plate on top of it. Secure everything with screws, remembering to use M1.6 screws for the six center standoffs when building the OEM plate.
+
+Now, you should connect the keyboard and check the console again. Make sure that all the readings are relatively similar. If the readings on all the keys are around 100, and on one of them, it's 500, then something is off. Also, check that the readings increase for each key when you press it. In case of any problems, in 99% of cases, it's a spring misalignment, so you should disassemble the keyboard, align the domes and springs, and assemble it again.
