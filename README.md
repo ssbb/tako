@@ -1,6 +1,7 @@
 # Tako
 
 ![Tako Keyboard](./docs/img/pcb.png)
+![Tako Keyboard](./docs/img/tako.png)
 
 <span>
   <img src="https://img.shields.io/github/last-commit/ssbb/tako?style=flat-square">
