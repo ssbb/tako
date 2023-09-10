@@ -111,6 +111,7 @@ Special thanks to [Cipulot](https://github.com/Cipulot/) for all the work on EC 
 - [jimmerricks](https://github.com/jimmerricks/swoop) for Swoop
 - [duckyb](https://github.com/duckyb/urchin) for Urchin I was inspired by
 - Awesome [Pete Johanson](https://github.com/petejohanson) for assistance
+- [kanru](https://github.com/kanru) for his work on Zephyr driver for HHKB which I used for reference
 
 ## Support
 
