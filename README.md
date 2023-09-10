@@ -1,6 +1,6 @@
 # Tako
 
-![Tako Keyboard](./docs/img/tako.jpg)
+![Tako Keyboard](./docs/img/tako2.jpg)
 ![Tako Keyboard](./docs/img/pcb.png)
 
 <span>
