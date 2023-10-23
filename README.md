@@ -58,7 +58,7 @@ For a wireless build, you can use [nice!nano](https://nicekeyboards.com/nice-nan
 
 | Part            | Amount | Details                                                                                         |
 |-----------------|--------|-------------------------------------------------------------------------------------------------|
-| M2x6 Standoff   | 16     | [Aliexpress](https://aliexpress.com/item/1005003126118423.html?sku_id=12000024241636343) |
+| M2x6 Standoff   | 16     | Max OD 3.4mm. [Aliexpress](https://aliexpress.com/item/1005003126118423.html?sku_id=12000024241636343) |
 | M2x4 Screws     | 32     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000034160900192)           |
 | M1.6x6 Standoff | 12     | [Aliexpress](https://aliexpress.com/item/33020779625.html?sku_id=12000029334740086)             |
 | M1.6x4 screws   | 24     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000019001985950)           |
@@ -67,7 +67,7 @@ For a wireless build, you can use [nice!nano](https://nicekeyboards.com/nice-nan
 
 | Part          | Amount | Details                                                                                  |
 |---------------|--------|------------------------------------------------------------------------------------------|
-| M2x6 Standoff | 28     | [Aliexpress](https://aliexpress.com/item/1005003126118423.html?sku_id=12000024241636343) |
+| M2x6 Standoff | 28     | Max OD 3.4mm. [Aliexpress](https://aliexpress.com/item/1005003126118423.html?sku_id=12000024241636343) |
 | M2x4 Screws   | 56     | [Aliexpress](https://aliexpress.com/item/4001248931159.html?sku_id=12000034160900192)    |
 
 ### EC Parts
