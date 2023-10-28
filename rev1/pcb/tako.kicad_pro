@@ -498,7 +498,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "tako.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
