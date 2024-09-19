@@ -86,7 +86,6 @@ For a wireless build, you can use [nice!nano](https://nicekeyboards.com/nice-nan
 Some EC vendors:
 
 - [deskeys](https://deskeys.io/)
-- [Unreal Keyboard](https://unrealkeyboards.com/)
 - [NIZ Store](https://www.nizkeyboard.com/products/2019-new-niz-ec-switch)
 - [Beekeeb (NIZ)](https://shop.beekeeb.com/product/niz-ec-switch/)
 - YMDK [Housings](https://aliexpress.com/item/1005005724051113.html), [Sliders](https://aliexpress.com/item/1005005721976294.html) and [Domes](https://aliexpress.com/item/1005005721050116.html)
