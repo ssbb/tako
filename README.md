@@ -98,6 +98,10 @@ NIZ sliders are MX-compatible by default.
 
 [Build Guide](./docs/buildguide.md)
 
+## Case
+
+There's an awesome case for Tako designed by [GofranChang](https://github.com/GofranChang). Check it out over at [GofranChang/TakoNest](https://github.com/GofranChang/TakoNest) - huge thanks for putting this together! 🙌
+
 ## Firmware
 
 - [QMK Firmware](https://github.com/ssbb/qmk_firmware/tree/master/keyboards/ssbb/tako)
